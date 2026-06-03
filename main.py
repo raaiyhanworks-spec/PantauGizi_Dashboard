@@ -313,7 +313,7 @@ def show_dinner_recommendation(df_gizi: pd.DataFrame):
         st.error("❌ File `train_gizi.csv` tidak ditemukan atau kosong.")
         return
 
-    st.title("### 🍽️ Dinner Recommendation")
+    st.title("🍽️ Dinner Recommendation")
     st.markdown("<p style='color:#5f6b66;'>Analisis nutrisi menu berdasarkan pedoman Isi Piringku</p>",
                 unsafe_allow_html=True)
     st.divider()
