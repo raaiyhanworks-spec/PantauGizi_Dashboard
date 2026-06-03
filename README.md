@@ -1,4 +1,4 @@
-# 🍽️ PantauGizi Dashboard
+# PantauGizi Dashboard
 
 PantauGizi Dashboard merupakan aplikasi visualisasi data berbasis Streamlit yang dikembangkan untuk mendukung program **Makan Bergizi Gratis (MBG)** melalui analisis nutrisi menu, profil antropometri siswa, serta sentimen umpan balik orang tua.
 
@@ -10,7 +10,7 @@ Dashboard ini mengintegrasikan tiga sumber data utama:
 
 ---
 
-## 🚀 Setup Environment
+## Setup Environment
 
 ### Menggunakan Anaconda
 
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Menjalankan Dashboard
+## Menjalankan Dashboard
 
 ```bash
 streamlit run main.py
@@ -50,7 +50,7 @@ https://dashboardpantaugizi.streamlit.app
 
 ---
 
-## 📂 Struktur Proyek
+## Struktur Proyek
 
 ```text
 pantaugizi-dashboard/
@@ -231,7 +231,7 @@ Dataset ulasan orang tua yang digunakan untuk Aspect-Based Sentiment Analysis (A
 
 ---
 
-# 🎯 Business Questions
+# Business Questions
 
 ### Q1. Dinner Recommendation
 
@@ -258,7 +258,7 @@ Bagaimana perbandingan ulasan positif dan negatif pada aspek rasa, porsi, dan ke
 
 ---
 
-# 👨‍💻 Tim Pengembang
+# Tim Pengembang
 
 | ID Peserta | Nama | Role | Status |
 |------------|------|------|---------|
