@@ -1,0 +1,690 @@
+final_text,rating,label,aspect
+"['halo', 'kakak', 'tadi', 'saya', 'pesan', 'porsi', 'ayam', 'yang', 'satu', 'spicy', 'dan', 'satu', 'lagi', 'original', 'tapi', 'pas', 'sampai', 'dua', 'dua', 'spicy', 'suami', 'aku', 'enggak', 'bisa', 'makan', 'ayam', 'karena', 'pedas']",2,negatif,porsi
+"['mohon', 'maaf', 'kulit', 'masih', 'mentah', 'dan', 'tidak', 'matang', 'sama', 'sekali', 'sambal', 'hijau', 'juga', 'tidak', 'ada', 'tidak', 'konfirmasi', 'dulu', 'rasa', 'juga', 'kurang', 'enak']",1,negatif,porsi
+"['kuah', 'terlalu', 'asa', 'pedas', 'mricanya']",4,positif,rasa
+"['rasane', 'asin', 'sekali', 'isi', 'tahu', 'nya', 'hitam', 'tapi', 'bukan', 'hitam', 'gosyong', 'rasa', 'aneh']",4,positif,rasa
+"['sudah', 'sering', 'beli', 'di', 'solaria', 'alhamdulilah', 'rasa', 'selalu', 'muas', 'mantap']",5,positif,rasa
+"['ayam', 'nya', 'cuma', 'sedikit', 'banyak', 'tepung', 'nya']",3,negatif,porsi
+"['jangan', 'asin', 'sekali']",3,negatif,rasa
+"['tidak', 'padat', 'dulu', 'topping', 'hanya', 'asal', 'manis']",3,negatif,rasa
+"['enak', 'tapi', 'agak', 'kurang', 'asin']",5,positif,porsi
+"['pesan', 'empal', 'beberapa', 'kali', 'porsi', 'daging', 'beda', 'beda', 'semua', 'overall', 'rasa', 'enak', 'sekali', 'apalagi', 'sambal', 'nya', 'nampol', 'sekali']",4,positif,rasa
+"['enak', 'sekali', 'bumbu']",5,positif,rasa
+"['pukis', 'dingin', 'bukan', 'bikin', 'ketika', 'order', 'masuk', 'rasa', 'standar', 'pakai', 'nama', 'pukis', 'kota', 'baru', 'mungkin', 'maksud', 'jebak', 'mes', 'yang', 'ira', 'pukis', 'kotabaru', 'kok', 'yung']",1,negatif,rasa
+"['tumben', 'kurang', 'mantap']",4,positif,rasa
+"['moga', 'cita', 'rasa', 'nya', 'jaga', 'selalu', 'dan', 'tetap', 'jadi', 'favorit']",5,positif,rasa
+"['menu', 'sate', 'enak', 'worth', 'itu', 'tekatur', 'daging', 'pas']",5,positif,rasa
+"['enak', 'semua', 'makan']",5,positif,rasa
+"['masakan', 'mantap', 'ibu', 'nyus', 'tempat', 'bersih', 'jual', 'cantik', 'ramah']",5,positif,kebersihan
+"['barusan', 'pesan', 'mie', 'goreng', 'porsi', 'lagi', 'porsi', 'kenapa', 'tidak', 'ada', 'krupuknya', 'sama', 'sekali', 'ya', 'jadi', 'asa', 'ada', 'yang', 'kurang', 'waktu', 'makan']",4,positif,porsi
+"['rasa', 'mantap']",5,positif,rasa
+"['cerdas', 'lah', 'dagang', 'kalau', 'gofood', 'tolong', 'kuah', 'capcay', 'dibukus', 'platik', 'kuah', 'tumpah', 'semua', 'coba', 'pikir', 'gojek', 'bawa', 'pakai', 'motor', 'makan', 'kuah', 'ditaro', 'di', 'strfom', 'saja', 'guncang', 'sana', 'sini', 'kuah', 'nya', 'tumpah', 'ke', 'kantong', 'plastik', 'jorok', 'sekali', 'kalau', 'dagang', 'tidak', 'pantas', 'makan', 'ingin', 'kata', 'kasar']",1,negatif,kebersihan
+"['rasa', 'pedas', 'dari', 'mie', 'nyinyir', 'tidak', 'bohong', 'mantap', 'sekali', 'pedas', 'kemas', 'juga', 'rapi']",5,positif,rasa
+"['enak', 'tetapi', 'petis', 'sedikit', 'lebih', 'encer']",4,positif,rasa
+"['enak', 'sayur', 'tidak', 'pelit', 'nasi', 'banyakk', 'murah', 'suka', 'deh']",5,positif,rasa
+"['biasa', 'saja', 'ayam', 'kecil', 'tahu', 'agak', 'bau', 'tapi', 'sambelnya', 'mantap']",5,positif,kebersihan
+"['seperti', 'bukan', 'bakmi', 'kadin', 'yang', 'legenda', 'kalaupun', 'yang', 'legenda', 'rasa', 'kurang', 'banyak']",2,negatif,porsi
+"['adon', 'keras', 'dan', 'rasa', 'hambar', 'topping', 'sangat', 'sedikit', 'dengan', 'harga', 'ribu', 'mohon', 'maaf']",1,negatif,porsi
+"['mantap', 'nasi', 'pasang', 'kalau', 'bisa', 'nasi', 'banyak', 'dikit', 'ya', 'wkekwkwkwk']",5,positif,rasa
+"['rasan', 'kurang', 'mantap', 'olivenya', 'dingin']",4,positif,rasa
+"['isi', 'enak', 'roti', 'kurang', 'sih', 'hanya', 'overall', 'boleh', 'lah', 'karena', 'harga']",4,positif,porsi
+"['mantap', 'pokok']",5,positif,rasa
+"['sambal', 'goreng', 'tempe', 'lumayan', 'jumlah', 'nya', 'ingin', 'banyak', 'hehe', 'karena', 'saya', 'tidak', 'pakai', 'krecek', 'karena', 'tidak', 'suka', 'minta', 'di', 'tukar', 'sama', 'sambal', 'goreng', 'tempe', 'cukup', 'tapi', 'tidak', 'ke', 'sedikit', 'an', 'bumbu', 'areh', 'santan', 'coba', 'di', 'banyak', 'minimal', 'jadi', 'lmyn', 'sedang', 'karena', 'kurang', 'rata', 'rasa', 'tetap', 'enak', 'dari', 'dulu', 'belum', 'pandemi', 'terimakasih']",4,positif,rasa
+"['rasa', 'mascarpone', 'cheese', 'nya', 'tidak', 'asa', 'sama', 'sekali', 'padu', 'rasa', 'coffee', 'dan', 'cream', 'cheesenya', 'kurang']",1,negatif,porsi
+"['ikan', 'sudah', 'agak', 'bau', 'untuk', 'yang', 'lain', 'tidak', 'ada', 'masalah']",4,positif,kebersihan
+"['terima', 'kasih', 'banyak', 'waroeng', 'steak', 'sen', 'sempat', 'salah', 'tapi', 'dari', 'pihak', 'waroeng', 'steak', 'sangat', 'baik', 'dan', 'kooperatif', 'ganti', 'ke', 'menu', 'yang', 'benar', 'dengan', 'rasa', 'yang', 'mantap', 'dan', 'layan', 'yang', 'luar', 'biasa', 'pasti', 'akan', 'sering', 'ulang', 'order', 'sukses', 'terus']",5,positif,porsi
+"['tahu', 'gimbal', 'enak', 'di', 'jogja']",5,positif,rasa
+"['enakk', 'asam', 'manis', 'kalau', 'sapo', 'tahu', 'reng']",5,positif,rasa
+"['mienya', 'asin', 'rasa', 'sudah', 'tidak', 'seperti', 'dulu', 'banyak', 'ubah']",1,negatif,rasa
+"['kenapa', 'porsi', 'snacknya', 'jadi', 'dikit', 'banget', 'padahal', 'enak', 'huhu']",4,positif,rasa
+"['rasa', 'enak', 'pas', 'hanya', 'yang', 'kali', 'ini', 'nasi', 'agak', 'keras', 'seperti', 'kurang', 'mateng']",3,negatif,porsi
+"['mantap', 'dan', 'bikin', 'kenyang']",5,positif,rasa
+"['rasa', 'mantul', 'sekali', 'pedas', 'asa', 'porsi', 'banyak', 'lanjut']",5,positif,rasa
+"['enak', 'sekali', 'hanya', 'kalau', 'daging', 'dibanyakin', 'dikit', 'lagi', 'akan', 'lebih', 'sempurna']",5,positif,rasa
+"['baru', 'ini', 'makan', 'lotek', 'rasa', 'pahit', 'beliny', 'bunfkus', 'pula']",1,negatif,rasa
+"['bikin', 'nagih', 'tapi', 'kenapa', 'kalau', 'aku', 'pesan', 'lama', 'lama', 'porsi', 'nasi', 'kurang', 'ya']",5,positif,porsi
+"['rasa', 'cukup', 'enak', 'porsi', 'banyak', 'tara', 'dengan', 'harga']",5,positif,porsi
+"['pedas', 'mapus', 'awokawokawok']",5,positif,rasa
+"['karena', 'banyak', 'menu', 'yang', 'tawar', 'jadi', 'kualitas', 'rasa', 'jadi', 'kurang', 'enak']",3,negatif,rasa
+"['daging', 'empuk', 'meski', 'agak', 'kurang', 'gurih', 'dan', 'terlalu', 'kering', 'untuk', 'aku', 'duchess', 'potato', 'nya', 'aku', 'paling', 'suka', 'lembut', 'gurih', 'dan', 'seperti', 'ada', 'bau', 'manis', 'wangi', 'sedikit', 'saus', 'mushroom', 'nya', 'enak', 'kalau', 'makan', 'sendiri', 'tapi', 'kurang', 'asa', 'kalau', 'makan', 'sama', 'daging', 'tengah', 'saus', 'tumpah', 'ke', 'bungkus', 'kresek', 'mungkin', 'lain', 'kali', 'saus', 'bisa', 'bungkus', 'dalam', 'cup', 'atau', 'plastik', 'sendiri', 'sayang', 'saus', 'mix', 'seafood', 'nya', 'dapat', 'udang', 'cumi', 'dan', 'entah', 'apa', 'ini', 'kerang', 'simping', 'kah', 'mungkin', 'di', 'menu', 'bisa', 'tolong', 'kasih', 'terang', 'isi', 'apa', 'saja']",4,positif,rasa
+"['begini', 'dong', 'sesuai', 'minta', 'beli', 'pedas', 'dan', 'rasa', 'pas', 'tingkat', 'terus', 'mutu', 'ya']",4,positif,rasa
+"['enak', 'sekali', 'terimakasih', 'ya']",5,positif,rasa
+"['mantap', 'sekali']",5,positif,rasa
+"['isi', 'rasa', 'seuprit', 'lain', 'kali', 'dibanyakin', 'ya', 'jangan', 'pelit']",5,positif,rasa
+"['ada', 'rambut', 'di', 'udang', 'keju']",3,negatif,kebersihan
+"['asli', 'rasa', 'makan', 'enak', 'rekomendasi', 'sekali']",5,positif,rasa
+"['enak', 'sekali', 'sekali']",5,positif,rasa
+"['mohon', 'maaf', 'untuk', 'untuk', 'rasa', 'seperti', 'ini', 'terlalu', 'overprice', 'daging', 'asa', 'tepung', 'tidak', 'juicy', 'seperti', 'jelas', 'sayur', 'tidak', 'ada', 'hanya', 'bombai']",2,negatif,rasa
+"['sen', 'nya', 'sesuai', 'enak']",5,positif,rasa
+"['mantap', 'deh', 'pokok']",5,positif,rasa
+"['nasi', 'goreng', 'cumi', 'kok', 'tidak', 'ada', 'cuminya', 'mana', 'hambar', 'pula', 'rasa', 'tidak', 'lagi', 'lagi', 'deh']",1,negatif,rasa
+"['mantap', 'suka']",5,positif,rasa
+"['biasa', 'enak', 'dan', 'bumbu', 'rasa', 'tapi', 'hari', 'ini', 'tidak']",3,negatif,rasa
+"['pedas', 'nya', 'mantap']",5,positif,rasa
+"['kecap', 'asin', 'tidak', 'kasih']",2,negatif,rasa
+"['porsi', 'banyak', 'banget', 'muuwwaah', 'suka', 'deh']",5,positif,porsi
+"['mantap', 'babat', 'bersih', 'sekali', 'tahan']",5,positif,kebersihan
+"['bumbu', 'sama', 'porsi', 'tidak', 'sesuai', 'harga', 'buat', 'ukur', 'seblak', 'ribu', 'itu', 'sudah', 'mahal', 'kalau', 'tidak', 'enak', 'sama', 'saja', 'bohong']",2,negatif,porsi
+"['kok', 'rasa', 'tidak', 'seperti', 'mie', 'gaco', 'biasa', 'seperti', 'mie', 'malam', 'yang', 'diangetin']",2,negatif,rasa
+"['kecewa', 'berat', 'saya', 'pesan', 'ayam', 'rica', 'rica', 'tapi', 'yang', 'datang', 'bukan', 'ayam', 'rica', 'rica', 'tapi', 'nugget', 'rica', 'rica', 'mana', 'isi', 'nugget', 'nya', 'sedikit', 'sama', 'bumbu', 'sumpah', 'kecewa', 'aku', 'tidak', 'beli', 'lagi', 'aku', 'di', 'mcd', 'ini', 'sumpah', 'kecewa']",1,negatif,porsi
+"['enak', 'sekali', 'tapi', 'belum', 'mau', 'tinggal']",5,positif,rasa
+"['ini', 'rendang', 'sedikit', 'asin']",4,positif,porsi
+"['mantap', 'pokok']",5,positif,rasa
+"['capcay', 'kurang', 'garam', 'kangkung', 'nya', 'asin']",1,negatif,rasa
+"['luar', 'biasa', 'padu', 'kuah', 'mantapny', 'yang', 'panas', 'banget', 'dan', 'baso', 'aciny', 'yang', 'lembut', 'nikmat', 'banget', 'gila', 'ini', 'baru', 'keren', 'pertama', 'kaliny', 'saya', 'makan', 'bakso', 'aci', 'di', 'yogya', 'enak', 'ini', 'obat', 'kangen', 'baso', 'aci', 'bandung', 'bintang', 'buat', 'resto', 'dan', 'chef', 'nya']",5,positif,rasa
+"['kurang', 'asin', 'dan', 'kuahny', 'terlalu', 'sedikit']",4,positif,porsi
+"['enak', 'rasa', 'cocok', 'mantuuul', 'lah']",5,positif,rasa
+"['capcaynya', 'sedikit', 'kematengan', 'kakak']",5,positif,porsi
+"['pesan', 'yang', 'datang', 'kurang', 'padahal', 'sudah', 'bayar', 'penuh']",1,negatif,porsi
+"['rasa', 'kwetiau', 'beda', 'dari', 'yang', 'beberapa', 'bulan', 'yang', 'lalu', 'porsi', 'tidak', 'tara', 'salah', 'satu', 'kwetiau', 'yang', 'aku', 'pesan', 'lebih', 'sedikit', 'porsi']",5,positif,rasa
+"['beli', 'paket', 'sate', 'tapi', 'tidak', 'dapat', 'nasi', 'kurang', 'teliti']",2,negatif,porsi
+"['biasa', 'kalau', 'masakan', 'padang', 'banyak', 'nasi', 'nya']",2,negatif,porsi
+"['porsi', 'jumbo', 'banyak', 'sekali', 'weh']",5,positif,porsi
+"['kuah', 'kurang', 'terlalu', 'kering']",3,negatif,porsi
+"['masakan', 'enak', 'semua', 'porsi', 'magelangannya', 'lumayan', 'besar', 'tapi', 'sayang', 'roti', 'bakar', 'tadi', 'dimiringin', 'bungkus', 'jadi', 'mbleber', 'susu', 'coklat', 'saran', 'lain', 'kali', 'roti', 'bakar', 'bungkus', 'di', 'plastik', 'pisah', 'saja', 'ya', 'kakak', 'terima', 'kasih']",5,positif,porsi
+"['selalu', 'enak', 'gurihhhh']",5,positif,rasa
+"['tolong', 'perhati', 'bersih', 'aku', 'nemu', 'rambut', 'dan', 'ada', 'batang', 'cabai', 'nya', 'di', 'dambal']",5,positif,kebersihan
+"['mantap', 'bolo', 'rasa', 'enak', 'porsi', 'besar']",5,positif,rasa
+"['mantap', 'sekali']",5,positif,rasa
+"['pedas', 'sekali', 'cabe']",5,positif,rasa
+"['es', 'teh', 'porsi', 'sedikit', 'dan', 'sudah', 'basi', 'maaf', 'lain', 'kali', 'baik', 'ya', 'supaya', 'tidak', 'sia', 'dan', 'buang']",2,negatif,porsi
+"['rasa', 'kurang', 'bumbu']",3,negatif,porsi
+"['suka', 'sekali', 'kulit', 'tipis', 'lap', 'lapis', 'dan', 'isi', 'lezat', 'terus', 'promonya', 'ya', 'kakak']",5,positif,rasa
+"['magelangannya', 'tidak', 'ada', 'rasa', 'dan', 'nasi', 'lembek', 'tapi', 'omeletnya', 'enak']",3,negatif,rasa
+"['alhamdulilah', 'akhir', 'bisa', 'makan', 'gudeg', 'ayo', 'jum', 'lagi', 'telah', 'sekian', 'tahun', 'tidak', 'ke', 'jogja', 'tetap', 'enak', 'dan', 'mantap']",5,positif,rasa
+"['kecil', 'kecil', 'ini', 'dia', 'tapi', 'masih', 'enak']",4,positif,porsi
+"['enak', 'byanget', 'byanget', 'woiiiiiiiiiiiiii', 'punya', 'suka']",5,positif,rasa
+"['rasa', 'enakkk', 'masuk', 'saja', 'untuk', 'gepuk', 'bapak', 'gembus', 'kalau', 'bisa', 'makan', 'untuk', 'kreseknya', 'di', 'kasih', 'seal', 'supaya', 'higienis', 'saya', 'tidak', 'tahu', 'seperti', 'makananya', 'seperti', 'ada', 'bekas', 'di', 'cuil', 'kalau', 'bisa', 'kasih', 'seal', 'ya', 'biar', 'customer', 'lebih', 'aman', 'tentang', 'ke', 'kebersihanya', 'terimakasih']",5,positif,kebersihan
+"['enggak', 'ada', 'rasa', 'pesan', 'mie', 'goreng', 'sama', 'nasi', 'goreng', 'anyep', 'porsi', 'pelit', 'pesan', 'ayam', 'geprek', 'dada', 'kasih', 'paha', 'sambel', 'geprek', 'uasin']",1,negatif,rasa
+"['mantap', 'deh', 'sambel', 'nya', 'gooooooooood']",5,positif,rasa
+"['rasa', 'kurang', 'mantap', 'beda', 'dengan', 'biasa', 'padahal', 'saya', 'sudah', 'lama', 'langgan', 'gudek', 'ini']",3,negatif,rasa
+"['enak', 'banget', 'suka', 'sambel', 'rempelo', 'atiny']",5,positif,rasa
+"['nasi', 'porsi', 'standar', 'sedia', 'habis', 'tapi', 'porsi', 'jumbo', 'masih', 'mau', 'tidak', 'mau', 'harus', 'pilih', 'jumbo', 'hasil', 'mubadzir', 'karena', 'tidak', 'habis', 'kenapa', 'porsi', 'standar', 'habis', 'malah', 'jumbo', 'masih', 'kan', 'tinggal', 'rangin', 'saja', 'kakak', 'hmm', 'kasih', 'pilih', 'cabe', 'berapa', 'saya', 'kira', 'sambelnya', 'buat', 'dada', 'ulek', 'dulu', 'tapi', 'malah', 'kasih', 'sambel', 'basi', 'hasil', 'harus', 'dipisahin', 'dulu', 'sambel', 'sama', 'ayam', 'ayam', 'bagi', 'dalem', 'masih', 'merah', 'bikin', 'kerja', 'dua', 'kali', 'harus', 'goreng', 'lagi', 'dulu', 'sudah', 'tunggu', 'lama', 'mana', 'laper', 'sekali', 'malah', 'dikecewain', 'sama', 'makan', 'kalau', 'sambelnya', 'sudah', 'tidak', 'pantas', 'kan', 'resto', 'bisa', 'ngechat', 'customer', 'ke', 'kakak', 'atau', 'tidak', 'aku', 'sudah', 'coba', 'beli', 'dari', 'tempat', 'lain', 'belum', 'tapi', 'sudah', 'maleman', 'jadi', 'mungkin', 'sudah', 'pada', 'ttup', 'dibatalin', 'otomatis', 'sama', 'gojek', 'jadi', 'mau', 'tidak', 'mau', 'beli', 'di', 'sini', 'dengan', 'harap', 'bisa', 'muas', 'tapi', 'tidak', 'jauh', 'di', 'luar', 'ekspektasi', 'kalau', 'rasa', 'bisa', 'foto', 'video', 'sudah', 'saya', 'kasih', 'lihat']",2,negatif,porsi
+"['aku', 'tiap', 'hari', 'beli', 'lotek', 'ini', 'bumbu', 'hari', 'ini', 'mantap', 'banyak', 'rasa', 'nya', 'porsi', 'banyak']",5,positif,rasa
+"['enak', 'sekali', 'roti', 'renyah', 'parah', 'enak', 'sekali', 'terluvvvv', 'sayang', 'di', 'depok', 'jawa', 'barat', 'tidak', 'ada']",5,positif,rasa
+"['keren', 'sekali', 'makan', 'enak', 'makan', 'cepat', 'di', 'kemas', 'oleh', 'pihak', 'resto', 'kemudian', 'driver', 'juga', 'sigap']",5,positif,rasa
+"['nasi', 'uduk', 'kurang', 'gurih']",3,negatif,porsi
+"['sen', 'semua', 'tambah', 'gula', 'beri', 'less', 'sugar', 'alias', 'sedikit', 'gula', 'lah', 'ya', 'tidak', 'enak', 'mbak', 'mass', 'bagaimana', 'ini', 'mixue', 'kok', 'begini', 'malesss', 'keciwaaa']",3,negatif,porsi
+"['nasi', 'kurang', 'banyak']",5,positif,porsi
+"['kurang', 'kental', 'tetapi', 'enak']",4,positif,porsi
+"['saya', 'tiap', 'hari', 'selalu', 'langgan', 'gofood', 'olive', 'ayam', 'geprek', 'mantap', 'pokokke']",5,positif,rasa
+"['saus', 'buat', 'udang', 'rambutan', 'kurang']",4,positif,porsi
+"['jus', 'kurang', 'lama', 'ngeblendernya', 'jadi', 'masih', 'ada', 'yang', 'utuh', 'buah']",4,positif,porsi
+"['sudah', 'langgan', 'sini', 'karena', 'enak', 'tapi', 'sudah', 'kali', 'pesan', 'tidak', 'kasih', 'sambal', 'entah', 'sengaja', 'atau', 'lupa', 'belum', 'mau', 'kasih', 'review', 'jelek', 'kasihan', 'eh', 'tapi', 'terus', 'tidak', 'kasih', 'sambal', 'yasudah', 'kali', 'ini', 'bintang', 'dulu']",3,negatif,rasa
+"['kuah', 'kurang', 'banyak', 'daging', 'kecil', 'tidak', 'seperti', 'biasa']",4,positif,porsi
+"['untuk', 'rasa', 'mungkin', 'oke', 'ya', 'tapi', 'untuk', 'tempat', 'tunggu', 'driver', 'ayolahh', 'masa', 'tempat', 'kalian', 'tidak', 'sedia', 'sih', 'kalau', 'mbok', 'ya', 'ramai', 'tolong', 'bisa', 'tutup', 'dulu', 'aplikasi']",3,negatif,rasa
+"['pas', 'buka', 'seafood', 'premium', 'ada', 'bau', 'amis', 'mungkin', 'karena', 'kepala', 'udang', 'dan', 'beberapa', 'cumi', 'yang', 'memang', 'tidak', 'segar', 'isi', 'lauk', 'terlalu', 'sedikit', 'banding', 'kuah', 'ini', 'beda', 'dengan', 'gambar', 'sedang', 'ayam', 'saos', 'mentega', 'kuah', 'terlalu', 'encer', 'dan', 'turut', 'aku', 'terlalu', 'asin']",3,negatif,kebersihan
+"['kurang', 'sausnyaaa']",4,positif,porsi
+"['saosnya', 'kurang', 'banya']",5,positif,porsi
+"['porsi', 'banyak', 'tapi', 'agak', 'kurang', 'pedas', 'ya', 'padahal', 'sudah', 'minta', 'pedas', 'tapi', 'sangat', 'enak']",5,positif,porsi
+"['cumaaa', 'pedas', 'tok', 'rasane', 'tidak', 'asa', 'manis', 'gurih', 'nya']",2,negatif,rasa
+"['mantap', 'bagi', 'wisatawan', 'mang', 'mkanan', 'ini', 'jadi', 'netral', 'lidah']",5,positif,rasa
+"['nasi', 'ayam', 'rendang', 'paling', 'enak', 'deh', 'bikin', 'nagih', 'kalau', 'lama', 'tidak', 'makan']",5,positif,rasa
+"['porsi', 'pas', 'kemas', 'oke', 'harga', 'oke', 'hanya', 'maniiiiisssss', 'sekali', 'seperti', 'aku', 'aduh', 'tambah', 'bobanya', 'juga', 'manis', 'waaaa', 'sukses', 'ya', 'moga', 'rasa', 'bisa', 'lebih', 'sesuai', 'lagi', 'biar', 'tambah', 'laris', 'laaafffff']",4,positif,porsi
+"['rasa', 'mantap']",5,positif,rasa
+"['murbey', 'enak', 'hazelnut', 'zon', 'sih', 'semenjak', 'pindah', 'tempat', 'rasa', 'ubah', 'apa', 'ya', 'dulu', 'enak', 'padahal']",4,positif,rasa
+"['mantap', 'sekali', 'smooky', 'beef', 'nya']",5,positif,rasa
+"['kuah', 'cuka', 'kurang', 'banyak']",3,negatif,porsi
+"['sambelnya', 'mantap', 'tambah', 'dong', 'porsi', 'biar', 'tidak', 'kurang', 'sambel']",5,positif,rasa
+"['ada', 'semut', 'besar', 'di', 'nasi', 'goreng', 'nasi', 'goreng', 'teri', 'terlalu', 'asin']",3,negatif,rasa
+"['ayam', 'nya', 'gurih', 'dan', 'pedas', 'nya', 'mantul']",5,positif,rasa
+"['nasi', 'nya', 'keras', 'toping', 'pisang', 'bakar', 'nya', 'juga', 'sedikit']",3,negatif,porsi
+"['salad', 'sayur', 'dikit', 'sekali', 'tidak', 'seperti', 'porsi', 'biasa', 'agak', 'kecewa']",3,negatif,porsi
+"['porsi', 'jumbo', 'hehe', 'pas', 'sekali', 'untuk', 'mahasiswa', 'terima', 'kasih']",4,positif,porsi
+"['lebih', 'hati', 'hati', 'agar', 'tidak', 'ada', 'cangkang', 'telur', 'yang', 'masuk', 'makan', 'selain', 'itu', 'makan', 'sudah', 'enak']",4,positif,rasa
+"['telur', 'krispi', 'tidak', 'ada', 'krispinya', 'malah', 'lembek', 'nasi', 'goreng', 'cokelat', 'hitam', 'asin', 'cukup', 'ajar', 'kali', 'pesan', 'saja', 'oh', 'ya', 'sama', 'kata', 'driver', 'restonya', 'tidak', 'jelas', 'dari', 'bentukannua', 'memang', 'tidak', 'jelas']",2,negatif,rasa
+"['beli', 'nya', 'tongseng', 'daging', 'dan', 'sate', 'goreng', 'yang', 'datang', 'jeroan', 'ati', 'dsb', 'daging', 'nya', 'saiprit', 'mentang', 'pakai', 'promo', 'makan', 'nya', 'di', 'kasih', 'enak', 'lihat', 'enggak', 'mau', 'rugi', 'sekali']",1,negatif,rasa
+"['maaf', 'bos', 'ku', 'kurang', 'gurih', 'di', 'sisening', 'nya', 'mungkin', 'di', 'perhati', 'kalau', 'asih', 'bubu', 'di', 'nasi', 'goreng', 'nya', 'ya', 'karena', 'aku', 'cinta', 'nasgor']",2,negatif,rasa
+"['untuk', 'pangsit', 'rebus', 'sama', 'bihun', 'enak', 'tapi', 'untuk', 'kwetiaw', 'nya', 'tidak', 'rekomended', 'sih', 'rasa', 'hambar', 'seperti', 'tidak', 'di', 'kasih', 'garam', 'toping', 'ayam', 'dikit']",4,positif,rasa
+"['rasa', 'agak', 'beda', 'sama', 'biasa']",4,positif,rasa
+"['sambel', 'nya', 'kok', 'dikit', 'ke', 'kakak', 'hmmm', 'rasa', 'tetel', 'tidak', 'ubah']",5,positif,rasa
+"['lumayan', 'tapi', 'kurang', 'cocok', 'lidah', 'aku', 'sukses', 'selalu', 'bwr', 'kebab', 'turki', 'baba', 'rafi']",4,positif,porsi
+"['rasa', 'buburnyd', 'agak', 'asam']",4,positif,rasa
+"['pesan', 'banyak', 'eh', 'kentang', 'largenya', 'tidak', 'ada', 'kurang', 'teliti']",1,negatif,porsi
+"['enak', 'sekali', 'bersih', 'kemas', 'oke', 'sampai', 'di', 'langgan', 'masih', 'hot']",5,positif,kebersihan
+"['kakak', 'maaf', 'ayam', 'nya', 'kringny', 'kurang', 'sampai', 'dalam', 'minumny', 'biasa', 'es', 'wlopn', 'tidak', 'dikash', 'cattn', 'ini', 'tumbn', 'anget', 'untuk', 'rasa', 'tetap', 'enak', 'sekali']",5,positif,porsi
+"['level', 'porsi', 'habis', 'tidak', 'sisa', 'tolong', 'buat', 'lebih', 'pedas', 'lagi']",5,positif,rasa
+"['bebek', 'enak', 'lembut', 'tapi', 'sambal', 'korek', 'kurang', 'pedas', 'untuk', 'lidah', 'sumatera']",4,positif,porsi
+"['yang', 'kikil', 'asam', 'seperti', 'sudah', 'mau', 'basi']",3,negatif,kebersihan
+"['enak', 'bangeeeeeeetttt']",5,positif,rasa
+"['nasi', 'kurang', 'matang', 'keras', 'sayur', 'ala', 'padang', 'at', 'tidak', 'daun', 'singkong', 'nangka', 'tidak', 'ada']",2,negatif,porsi
+"['ayam', 'harga', 'ribu', 'hanya', 'dapat', 'slice', 'tipis', 'asin', 'pula', 'ckckck', 'overall', 'porsi', 'dikit', 'tidak', 'lagi', 'deh', 'beli', 'di', 'sini']",2,negatif,rasa
+"['enak', 'sekali', 'murah', 'riah']",5,positif,rasa
+"['pernah', 'gofud', 'jhouse', 'dari', 'jogja', 'bawah', 'ke', 'jakal', 'masih', 'panas', 'sedang', 'ini', 'sama', 'jakal', 'tapi', 'entah', 'kenapa', 'ayam', 'dingin', 'jadi', 'kurang', 'crispy', 'gitu', 'ayam', 'yang', 'anget', 'nasi', 'aja', 'lebih', 'rasa', 'ayam', 'jhouse', 'tetap', 'enak', 'seperti', 'biasa']",3,negatif,porsi
+"['rasa', 'enak', 'kalau', 'nasi', 'nya', 'lebih', 'banyak', 'mungkin', 'lebih', 'enak', 'lagi', 'hehehehe']",5,positif,porsi
+"['kurang', 'besar', 'tapi', 'enak']",5,positif,rasa
+"['bubur', 'masih', 'cenderung', 'mentah', 'banyak', 'yang', 'masih', 'asa', 'beras', 'kelas', 'mcd', 'tidak', 'buat', 'makan', 'dengan', 'kualitas', 'seperti', 'itu']",3,negatif,porsi
+"['cepat', 'saji', 'kurang']",4,positif,porsi
+"['nasi', 'kurang', 'banyak', 'di']",5,positif,porsi
+"['baru', 'pertama', 'order', 'tapi', 'sudah', 'jatuh', 'cinta', 'sama', 'mentai', 'di', 'sini', 'mentainya', 'enak', 'sekali', 'pokok', 'porsi', 'pas', 'rasa', 'tidak', 'bosan', 'sama', 'sekali', 'nyata', 'porsi', 'itu', 'sudah', 'ngenyangin', 'topping', 'daging', 'itu', 'tidak', 'nanggung', 'nanggung', 'rasa', 'juga', 'imbang', 'pas', 'pokok', 'jadi', 'tidak', 'bikin', 'bosan', 'aku', 'makan', 'itu', 'nikmat', 'sekali', 'bikin', 'aku', 'bahagia', 'dong', 'kalau', 'aku', 'makan', 'sampai', 'bahagia', 'itu', 'tetap', 'makan', 'itu', 'benar', 'benar', 'enak', 'sekali', 'parah', 'pasti', 'aku', 'lainkali', 'order', 'lagi', 'kalau', 'pas', 'ngumpul', 'sama', 'teman', 'teman', 'mau', 'saya', 'rekomendasi', 'menu', 'di', 'sini', 'buat', 'makan', 'sama', 'sama']",5,positif,porsi
+"['bakso', 'nya', 'enak', 'porsi', 'pas']",5,positif,rasa
+"['pedas', 'nya', 'nyiksa', 'sekali']",1,negatif,rasa
+"['gila', 'ah', 'kecewa', 'nasi', 'bau', 'lembek', 'dan', 'tidak', 'mateng', 'sayur', 'nya', 'rasa', 'mrica', 'sekali', 'tahu', 'seperti', 'manis', 'es', 'teh', 'seperti', 'cuma', 'air', 'putih', 'terus', 'suruh', 'bilang', 'apa', 'coba', 'ini', 'kan', 'buat', 'makan', 'manusia', 'kaaaaan', 'yang', 'benar', 'saja']",1,negatif,kebersihan
+"['kurang', 'pas', 'bumbu', 'tidak', 'seperti', 'dulu']",2,negatif,rasa
+"['bakso', 'asin', 'sekali', 'dan', 'terlalu', 'banyak', 'lemak', 'di', 'kuah']",3,negatif,rasa
+"['baik', 'mie', 'atau', 'telur', 'kurang', 'asin']",4,positif,rasa
+"['moga', 'bisa', 'lebih', 'teliti', 'dalam', 'siap', 'pesan', 'belum', 'beri', 'percaya', 'diri', 'driver', 'kemarin', 'ada', 'yang', 'kurang', 'sesuai', 'pesan', 'beda', 'porsi', 'walau', 'di', 'struk', 'sudah', 'benar', 'bukan', 'pertama', 'kali', 'seperti', 'itu', 'soal', 'hehe', 'moga', 'ke', 'depan', 'bisa', 'lebih', 'tingkat', 'lagi', 'terima', 'kasih', 'untuk', 'rasa', 'tetap', 'enak']",4,positif,porsi
+"['mantap', 'sekali', 'topingnya', 'komplit', 'dan', 'tidak', 'pelittt', 'kencur', 'terasaa', 'jadi', 'segar']",5,positif,rasa
+"['ayam', 'nya', 'masih', 'ada', 'rasa', 'mentah', 'nya', 'kurang', 'mateng', 'masa', 'nya', 'ukur', 'kecil', 'pula']",1,negatif,rasa
+"['tepung', 'kurang', 'lembut']",4,positif,porsi
+"['aku', 'pesan', 'paket', 'di', 'yang', 'dada', 'sama', 'paha', 'bawah', 'porsi', 'tapi', 'isi', 'hanya', 'dada', 'saja', 'paha', 'kok', 'hilang', 'semua', 'tidak', 'ada']",1,negatif,porsi
+"['nasi', 'ayam', 'goreng', 'seperti', 'biasa', 'enak', 'hanya', 'coba', 'pesan', 'nasi', 'goreng', 'seafoodnya', 'zon', 'hambar', 'tidak', 'dah', 'rasa', 'sama', 'saya', 'tidak', 'menemulan', 'seafoodnya', 'hanya', 'ada', 'udang', 'kecil', 'se', 'kuku', 'jari', 'sisa', 'potong', 'kecil', 'cumi', 'beberapa', 'baik', 'lagi', 'ya']",2,negatif,rasa
+"['teh', 'basi', 'seperti', 'sudah', 'hari', 'nasi', 'juga', 'tidak', 'matang', 'benar', 'ayam', 'hambar']",1,negatif,rasa
+"['untuk', 'porsi', 'pas', 'hanya', 'buat', 'rasa', 'seperti', 'kebanyakasn', 'air', 'tapi', 'masih', 'oke']",4,positif,porsi
+"['enak', 'sekali', 'tapi', 'tadi', 'saya', 'minta', 'tengah', 'matang', 'tapi', 'telur', 'matang', 'untuk', 'porsi', 'pas']",5,positif,rasa
+"['es', 'teh', 'nya', 'tidak', 'manis']",4,positif,rasa
+"['terlalu', 'asin', 'toping', 'lain', 'perlu', 'banyak', 'lagi']",3,negatif,rasa
+"['bagi', 'yang', 'suka', 'makan', 'enak', 'murah', 'dapat', 'promo', 'mari', 'coba', 'ini', 'enak', 'murah', 'tidak', 'keluar', 'uang', 'banyak', 'rasa', 'jamin', 'enak']",5,positif,rasa
+"['banyak', 'promonya', 'lagi']",5,positif,porsi
+"['sangat', 'obat', 'rasa', 'kangen', 'dengan', 'rasa', 'pedas', 'sulawesi', 'mantap', 'betull']",5,positif,rasa
+"['pesan', 'sultan', 'boba', 'sedot', 'yang', 'kasih', 'yang', 'kecil']",3,negatif,porsi
+"['udang', 'goreng', 'tepung', 'terlalu', 'tebal', 'tepung', 'udang', 'hanya', 'kecil']",3,negatif,porsi
+"['tidak', 'banding', 'dengan', 'harga', 'yang', 'mahal', 'daging', 'kecil', 'sekali', 'rasa', 'tidak', 'enak']",1,negatif,rasa
+"['mantap', 'kali', 'ini', 'bung']",5,positif,rasa
+"['enak', 'tapi', 'pedas', 'sekali', 'tolong', 'kurang', 'kepedesannya']",5,positif,rasa
+"['nasi', 'goreng', 'sangat', 'jumbo', 'bikin', 'kenyang', 'bgo', 'kenyang', 'sampai', 'minggu']",5,positif,porsi
+"['yang', 'asin', 'terlalu', 'asin']",3,negatif,rasa
+"['porsi', 'rasa', 'bahan', 'makan', 'jatinangor', 'punya', 'karakteristik', 'sendiri']",5,positif,rasa
+"['cupcake', 'nya', 'yang', 'coklat', 'enak', 'kata', 'dia', 'yakali', 'sih', 'tidak', 'order']",5,positif,rasa
+"['beli', 'paket', 'ayam', 'large', 'dapetnya', 'paha', 'pentung', 'minta', 'extrasauce', 'padahal', 'beli', 'porsi', 'ayam', 'kasih', 'cuma', 'biji']",4,positif,porsi
+"['enak', 'sekali', 'pokok']",5,positif,rasa
+"['enak', 'seperti', 'biasa', 'tambah', 'beli', 'pakai', 'promo', 'jadi', 'enak', 'luar', 'biasa', 'kan', 'lumayan', 'beli', 'sayap', 'paha', 'hanya', 'ke']",5,positif,rasa
+"['enak', 'sekali', 'kapan', 'kapan', 'wajib', 'beli', 'lagi']",5,positif,rasa
+"['enak', 'euyy', 'apa', 'lage', 'beli', 'pas', 'promo', 'makin', 'wadaww', 'ihiw']",4,positif,rasa
+"['enak', 'sedap', 'tapi', 'terlalu', 'banyak', 'merica']",4,positif,rasa
+"['bumbu', 'nya', 'jauh', 'lebih', 'baik', 'yang', 'dulu', 'dari', 'pada', 'sekarang', 'packing', 'kurang', 'hygiene', 'dan', 'safety', 'zaman', 'pandemi', 'begini', 'keresek', 'tidak', 'pakai', 'seal', 'biar', 'buka']",3,negatif,rasa
+"['saus', 'bisa', 'tambah', 'banyak']",4,positif,porsi
+"['semua', 'enak', 'suka', 'deh']",5,positif,rasa
+"['enak', 'sekali', 'autokuota', 'com']",5,positif,rasa
+"['woo', 'saya', 'suka', 'sekali', 'rasa', 'enak', 'sekali', 'terus', 'datang', 'juga', 'cepat', 'saya', 'jadi', 'senang', 'hilang', 'deh', 'lapar', 'makaciii', 'gojekkkk']",5,positif,rasa
+"['mantap', 'bossssss']",5,positif,rasa
+"['enak', 'tidak', 'pelit', 'sesuai', 'minta', 'porsi', 'banyak', 'dan', 'benar', 'jaga', 'konsistensi', 'langgan', 'terima', 'kasih', 'bapak', 'sukses', 'selalu']",5,positif,porsi
+"['enak', 'sekali', 'semua', 'tpk', 'sambel', 'nya', 'yang', 'ada', 'kemas', 'kecil', 'itu', 'kok', 'rasa', 'basi', 'ya']",4,positif,kebersihan
+"['porsi', 'nya', 'banyak', 'banget']",4,positif,porsi
+"['ayam', 'goreng', 'rasa', 'nya', 'ubah', 'dan', 'lihat', 'hitam', 'tapi', 'bukan', 'gosong', 'basah', 'tidak', 'kering']",3,negatif,rasa
+"['rasa', 'enak', 'hanya', 'potong', 'daging', 'kecil', 'sekali', 'waktu', 'saya', 'makan', 'di', 'padang', 'sate', 'cukup', 'besar']",4,positif,rasa
+"['kupat', 'tahu', 'enak', 'tapi', 'agak', 'asin', 'sedikit']",5,positif,porsi
+"['untung', 'masih', 'panas', 'jadi', 'enak', 'admin']",5,positif,rasa
+"['makan', 'sih', 'enak', 'tapi', 'layan', 'tidak', 'sekali', 'kalau', 'mungkin', 'order', 'numpuk', 'dan', 'antri', 'panjang', 'sekali', 'mending', 'di', 'close', 'dulu', 'tidak', 'semua', 'yang', 'order', 'itu', 'duduk', 'jogja', 'bisa', 'jadi', 'seperti', 'saya', 'dari', 'luar', 'kota', 'dan', 'harus', 'kejar', 'waktu', 'untuk', 'berangkat', 'kereta', 'estimasi', 'aplikasi', 'hanya', 'menit', 'nyata', 'kita', 'order', 'untuk', 'antri', 'makan', 'saja', 'jam', 'info', 'dari', 'driver', 'karena', 'pesan', 'box', 'lagi', 'banyak', 'edyan', 'benar']",1,negatif,porsi
+"['aku', 'order', 'porsi', 'yang', 'lotek', 'telur', 'tapi', 'kok', 'telur', 'tidak', 'ada', 'selisih', 'ke', 'kali', 'rugi', 'ke', 'aku', 'kocak', 'benar', 'terus', 'req', 'cabe', 'kasih', 'hanya', 'cabe', 'terimakasih']",1,negatif,porsi
+"['bikin', 'tagih', 'jadi', 'nafsu', 'makan', 'tambah', 'besar', 'mantul', 'bangetz']",5,positif,porsi
+"['enak', 'enak', 'yang', 'tidak', 'sekali', 'benar', 'beberapa', 'kali', 'pesan', 'sini', 'kurang', 'asinn', 'but', 'overall', 'after', 'i', 'put', 'more', 'ingredients', 'di', 'dalem', 'bakso', 'nya', 'jadi', 'enak', 'tingkatin', 'lagi', 'ya', 'rasa', 'buat', 'rasa', 'bakso', 'sudah', 'nyerep', 'dan', 'ndaging', 'sekali', 'semangat', 'ya']",5,positif,porsi
+"['mesen', 'ayam', 'pop', 'yang', 'dua', 'kali', 'yang', 'pertama', 'beberapa', 'hari', 'lalu', 'enak', 'bumbu', 'rempah', 'rasa', 'yang', 'dua', 'ini', 'kok', 'asiiiiiin', 'pol']",2,negatif,rasa
+"['enak', 'untuk', 'orang', 'yang', 'suka', 'asin', 'seperti', 'aku', 'ini', 'cukup', 'lmyn', 'asin', 'rendang', 'lumayan', 'butuh', 'tenaga', 'ngunyahnya', 'jadi', 'far', 'kenyang']",4,positif,rasa
+"['terimakasih', 'diskonanya', 'besar']",5,positif,porsi
+"['kemarin', 'datang', 'pas', 'buka', 'jadi', 'anget', 'bisa', 'nikmat', 'roti', 'tebal', 'enak', 'tapi', 'agak', 'gosong', 'motongnya', 'juga', 'bisa', 'pas', 'biasa', 'ada', 'yang', 'kecil', 'besar']",4,positif,rasa
+"['gila', 'beli', 'taro', 'tapi', 'di', 'dalam', 'gelas', 'plastik', 'ada', 'lalat', 'besar', 'sudah', 'mati', 'sudah', 'masuk', 'mulut', 'hampir', 'ketel', 'baru', 'tahu', 'sudah', 'hampir', 'habis', 'karena', 'lalat', 'ada', 'di', 'dasar', 'gelas', 'sisa', 'otomatis', 'langsung', 'buang', 'kios', 'seperti', 'ini', 'harus', 'tidak', 'jorok', 'ini', 'sampai', 'lalat', 'besar', 'itu', 'saja', 'tidak', 'notice', 'serah', 'beli', 'minum', 'lagi', 'di', 'sini', 'makan', 'juga', 'jadi', 'tambah', 'was', 'was', 'daripada', 'bikin', 'sakit']",1,negatif,porsi
+"['enak', 'sekali', 'coo', 'udang', 'keju', 'sama', 'pangsitnyaaa']",5,positif,rasa
+"['mantap', 'sate', 'ayam', 'besar', 'besar', 'nasi', 'juga', 'banyak', 'kenyang', 'mantap']",5,positif,porsi
+"['order', 'jam', 'dan', 'rasa', 'sudah', 'beda']",3,negatif,rasa
+"['enak', 'sekali', 'tapi', 'tadi', 'saya', 'minta', 'tengah', 'matang', 'tapi', 'telur', 'matang', 'untuk', 'porsi', 'pas']",5,positif,porsi
+"['mie', 'rica', 'padahal', 'ekstra', 'pedas', 'totally', 'sama', 'sekali', 'tidak', 'pedas', 'sedikit', 'naskunnya', 'rasa', 'biasa', 'saja']",3,negatif,porsi
+"['porsi', 'nasi', 'kurang', 'kalau', 'tadi', 'masih', 'di', 'harga', 'an']",3,negatif,porsi
+"['aku', 'pesan', 'paket', 'nasi', 'es', 'teh', 'tapi', 'kok', 'es', 'teh', 'hanya', 'jika', 'ada', 'kurang', 'seperti', 'ini', 'apakah', 'bisa', 'susul', 'untuk', 'kirim']",4,positif,porsi
+"['sudah', 'kali', 'pesan', 'pasti', 'ada', 'saja', 'yang', 'kurang', 'sekarang', 'pesan', 'kurang', 'es', 'teh', 'tolong', 'perhati', 'lagi']",1,negatif,porsi
+"['teh', 'rasa', 'beda']",4,positif,rasa
+"['nasi', 'agak', 'keras', 'bumbu', 'ayam', 'mantap']",4,positif,rasa
+"['enak', 'sekali', 'rasa']",4,positif,rasa
+"['langgan', 'dari', 'duluuuu', 'bersih', 'enak', 'tapi', 'minus', 'selalu', 'kurang', 'pedas', 'hihihi']",5,positif,porsi
+"['kok', 'manis', 'sih']",2,negatif,rasa
+"['ayam', 'kecap', 'asin', 'sekali']",3,negatif,rasa
+"['porsi', 'kurang']",4,positif,porsi
+"['sudaa', 'pesan', 'tidak', 'pedas', 'masih', 'pedas']",3,negatif,rasa
+"['rasa', 'mantap', 'porsi', 'mie', 'kurang', 'bsnyak', 'bersih', 'kemas', 'bagus']",5,positif,porsi
+"['mantap', 'rasa', 'tiada', 'nya', 'buah', 'baik', 'lah', 'buat', 'gepreknya', 'indonesia', 'raya']",5,positif,rasa
+"['sip', 'mantap', 'makan']",5,positif,rasa
+"['kemarin', 'kuahny', 'agak', 'asem', 'seperti', 'rasa', 'agak', 'basi']",3,negatif,rasa
+"['overall', 'rice', 'bowlnya', 'sendiri', 'enak', 'tapi', 'agak', 'zon', 'dapat', 'snack', 'bakso', 'goreng', 'yang', 'dalam', 'seperti', 'sudah', 'tidak', 'bagus', 'dan', 'ada', 'bau', 'tidak', 'enak']",4,positif,kebersihan
+"['sebenrnya', 'tidak', 'tega', 'kasih', 'bintang', 'hanya', 'ini', 'parah', 'sih', 'nama', 'rice', 'bowl', 'tapi', 'nasi', 'keras', 'tidak', 'enak', 'seperti', 'kurang', 'air', 'masak', 'masakan', 'sesimple', 'ini', 'masa', 'nasi', 'saja', 'tidak', 'enak', 'mana', 'pesan', 'tambah', 'nasi', 'buang', 'uang', 'ini', 'mah']",1,negatif,porsi
+"['kurang', 'asin', 'dan', 'kuahny', 'terlalu', 'sedikit']",4,positif,rasa
+"['mantap', 'sekali', 'rasa', 'suami', 'dan', 'anak', 'aku', 'suka']",5,positif,rasa
+"['enak', 'tapi', 'sayang', 'tidak', 'ada', 'sambel', 'nya', 'cuma', 'ada', 'saos', 'nya', 'aja']",1,negatif,rasa
+"['enak', 'sekali', 'murah', 'recommended', 'buat', 'teman', 'teman', 'yang', 'suka', 'order', 'gofood', 'pokok', 'nyamiiiii', 'mantap', 'josssss', 'i', 'suka']",5,positif,rasa
+"['porsi', 'sambal', 'ijo', 'nya', 'kurang', 'dan', 'juga', 'tidak', 'pedas', 'terus', 'aku', 'pesan', 'sambal', 'tambah', 'nya', 'tapi', 'kok', 'tidak', 'ada', 'ya', 'pas', 'pesan', 'nya', 'sampai']",3,negatif,rasa
+"['sayang', 'sekali', 'lama', 'layan', 'dan', 'kualitas', 'makan', 'makin', 'turun', 'bumbu', 'terlalu', 'encer', 'pegawai', 'kurang', 'teliti', 'memprose', 'pesan', 'padahal', 'sudah', 'di', 'nota', 'sampai', 'di', 'tulis', 'ulang', 'tanpa', 'ketiimun', 'dan', 'ketupat', 'tapi', 'masih', 'di', 'kasih', 'ketupat', 'minta', 'bumbu', 'di', 'pisah', 'dengan', 'ada', 'tambah', 'biaya', 'tapi', 'di', 'kasih', 'di', 'campur', 'ini', 'bukan', 'salah', 'pertama', 'tapi', 'sudah', 'berapa', 'kali', 'pesan', 'selalu', 'seperti', 'itu', 'seperti', 'aku', 'harus', 'cari', 'jual', 'lain', 'benar', 'kecewa']",1,negatif,porsi
+"['rasa', 'porsi', 'kualitas']",5,positif,rasa
+"['martabak', 'tidak', 'seperti', 'yang', 'di', 'jakarta', 'terlalu', 'kering', 'mentega', 'di', 'kasih', 'sedikit', 'sekali', 'dan', 'susu', 'kental', 'manis', 'juga', 'sedikit']",3,negatif,porsi
+"['rasa', 'dienakin', 'lagi', 'ya', 'kakak', 'kakak']",4,positif,rasa
+"['sudah', 'bulan', 'akhir', 'pesan', 'di', 'almond', 'cream', 'nya', 'kok', 'jadi', 'manis', 'ya', 'pdl', 'tadi', 'tidak', 'seman', 'itu', 'mungkin', 'bisa', 'timbang', 'untuk', 'di', 'kurang', 'manis']",5,positif,rasa
+"['moga', 'di', 'baca', 'oleh', 'mister', 'burger', 'kenapa', 'sekarang', 'roti', 'seperti', 'roti', 'di', 'warung', 'yang', 'sekali', 'gigit', 'remuk', 'di', 'mulut', 'rasa', 'pun', 'seperti', 'roti', 'semir', 'nya', 'swiss']",3,negatif,rasa
+"['rasa', 'kurang', 'nendang']",3,negatif,rasa
+"['sambel', 'nya', 'enak', 'paling', 'suami', 'aku', 'sampai', 'tagih', 'sayang', 'nya', 'kita', 'dijogja', 'hanya', 'waktu', 'libur', 'lanjut', 'waktu', 'kalau', 'ke', 'jogja', 'lagi', 'harus', 'makan', 'ini', 'lagi']",5,positif,rasa
+"['ayam', 'kurang', 'krispy', 'dan', 'pedas', 'padahal', 'biasa', 'crunchy', 'terus', 'pedas', 'dan', 'masih', 'anget']",4,positif,rasa
+"['rasa', 'makin', 'tidak', 'enak']",1,negatif,rasa
+"['sate', 'kurang', 'mantap']",3,negatif,porsi
+"['endeus', 'dressingya', 'biarpun', 'lihat', 'banyak', 'keju', 'juga', 'tapi', 'rasa', 'tidak', 'bosan', 'loh', 'buah', 'juga', 'segar', 'tidak', 'asem']",5,positif,porsi
+"['kencur', 'banyak', 'hehe']",3,negatif,porsi
+"['enak', 'pas', 'rasa']",5,positif,rasa
+"['rasa', 'kurang', 'enak', 'moga', 'bisa', 'baik', 'maaf', 'ke', 'sayang']",2,negatif,rasa
+"['hmm', 'mantap', 'lezatt']",5,positif,rasa
+"['pesan', 'dada', 'yang', 'datang', 'paha', 'ayam', 'tidak', 'enak', 'sambal', 'sedikit', 'rasa', 'b', 'saja', 'pertama', 'dan', 'akhir', 'untuk', 'rasai', 'rasa', 'makan', 'ayam', 'geprek', 'paling', 'tidak', 'enak', 'indonesia']",1,negatif,rasa
+"['oke', 'mantap', 'sekali', 'rasa']",5,positif,rasa
+"['pesan', 'nya', 'lauk', 'telur', 'tengah', 'sama', 'ati', 'ampela', 'malah', 'dikirimin', 'telur', 'tengah', 'semua', 'di', 'kasih', 'ampela', 'hanya', 'sampai', 'potong', 'kecil', 'sekali', 'lagi', 'mana', 'porsi', 'nya', 'dikit', 'sekali']",1,negatif,porsi
+"['mantap', 'fillet', 'atau', 'katsu', 'samasama', 'enak']",5,positif,rasa
+"['enak', 'sekali', 'sekali', 'terus']",5,positif,rasa
+"['sambal', 'geprekny', 'kurang', 'asa', 'hanya', 'pedas', 'aja']",4,positif,porsi
+"['terima', 'kasih', 'atas', 'layan', 'gan', 'tapi', 'aku', 'pesan', 'kali', 'turut', 'padahal', 'aku', 'pesan', 'yang', 'besar', 'xl', 'bbrapa', 'kali', 'aku', 'kasih', 'bintang', 'karena', 'packing', 'aman', 'rapi', 'tapi', 'hari', 'ini', 'bad', 'sekali', 'keju', 'tumpah', 'semua', 'ke', 'plastik', 'mayo', 'juga', 'ukur', 'sedikit', 'tidak', 'seperti', 'kemarin', 'sudah', 'gitu', 'juga', 'tumpah', 'dan', 'blepot', 'mana', 'maaf', 'kali', 'ini', 'aku', 'kecewa', 'mohon', 'ritingkatkan', 'lagi', 'ya', 'terimakasih']",2,negatif,kebersihan
+"['isi', 'enak', 'roti', 'kurang', 'sih', 'hanya', 'overall', 'boleh', 'lah', 'karena', 'harga']",4,positif,rasa
+"['bumbu', 'kurang', 'mantap', 'kurang', 'asin', 'kurang', 'manis', 'ditingkatin', 'lagi', 'rasa']",4,positif,rasa
+"['nasi', 'kurang', 'tolong', 'perhati', 'lagi', 'pesan']",4,positif,porsi
+"['jossss', 'mantap', 'sambel', 'ayam', 'geprek', 'nya']",5,positif,rasa
+"['porsi', 'kurang', 'banyak']",4,positif,porsi
+"['ayam', 'panggang', 'enal', 'tapi', 'kurang', 'sambel', 'nasi', 'kuning', 'juga', 'enak', 'tapi', 'kurang', 'lengkap', 'dengan', 'bihun', 'kering', 'tempe', 'dsb']",4,positif,porsi
+"['martabak', 'manis', 'kacang', 'dan', 'coklat', 'sudah', 'bau', 'tengik', 'jadi', 'sia', 'tidak', 'makan']",1,negatif,rasa
+"['porsi', 'tidak', 'sesuai', 'deskripsi']",4,positif,porsi
+"['gratis', 'teh', 'tidak', 'ada', 'tolong', 'hapus', 'saja', 'tulis', 'freenya', 'untuk', 'ayam', 'keras', 'dan', 'kuah', 'sayur', 'sedikit']",1,negatif,porsi
+"['juara', 'mantap', 'di', 'mulut', 'damai', 'di', 'perut']",5,positif,rasa
+"['enak', 'dan', 'sangat', 'pedas', 'maknyus']",5,positif,rasa
+"['banyak', 'pilih', 'menu', 'sambal', 'juossssss', 'tenan']",5,positif,porsi
+"['level', 'masih', 'pedas']",3,negatif,rasa
+"['enak', 'enak', 'enak', 'udaaaaaa', 'enak', 'pokok', 'e']",5,positif,rasa
+"['banyak', 'minyak']",4,positif,porsi
+"['tidak', 'enak', 'kecewa']",1,negatif,rasa
+"['terlalu', 'banyak', 'tepung']",1,negatif,porsi
+"['semua', 'oke', 'sih', 'hanya', 'sambal', 'kok', 'tidak', 'ada', 'tuh', 'bikin', 'sedih', 'kan', 'padahal', 'bubur', 'tanpa', 'sambal', 'seperti', 'ada', 'yang', 'kurang', 'baik', 'besok', 'belum', 'kasih', 'order', 'ke', 'kakak', 'gofoodnya', 'harap', 'cek', 'isi', 'sana', 'ya', 'kakak']",3,negatif,porsi
+"['rasa', 'enak', 'dulu', 'pas', 'awal', 'beli', 'ini', 'enaaakk', 'tapi', 'agak', 'kurang', 'mantap', 'sudah', 'beda', 'rasa', 'syedih']",4,positif,porsi
+"['tomatjya', 'besar']",3,negatif,porsi
+"['buah', 'nya', 'tidak', 'segar', 'dan', 'seperti', 'basi', 'begitu', 'kalau', 'untuk', 'kemas', 'bagus', 'dan', 'tepat', 'waktu', 'oke', 'lah']",3,negatif,kebersihan
+"['tepung', 'lumayan', 'keras', 'kakak', 'pakai', 'tepung', 'kemarin', 'ya', 'ganti', 'dong', 'ayamny', 'masih', 'ada', 'darahny', 'sedikit', 'terima', 'kasih']",2,negatif,porsi
+"['terima', 'kasih', 'enak', 'sekali']",5,positif,rasa
+"['tahan', 'soal', 'rasa']",5,positif,rasa
+"['kakak', 'kakak', 'saya', 'beli', 'nasi', 'telur', 'dan', 'telur', 'asin', 'itu', 'kamu', 'sesuatu', 'sekali']",2,negatif,rasa
+"['kaki', 'lima', 'tapi', 'rasa', 'bintang', 'lima']",5,positif,rasa
+"['enak', 'murah', 'porsi', 'pas']",5,positif,porsi
+"['enak', 'sekali', 'makan', 'nya', 'kulit', 'krispi', 'ayam', 'enak', 'banget', 'sambelnya', 'pedas', 'kualitas', 'nomer', 'dus', 'nya', 'mavvah', 'sekali', 'bersih', 'nomer', 'konsumen', 'puas', 'sekali', 'pertahanin', 'ya', 'terimakasihhhhh']",5,positif,kebersihan
+"['mantap', 'tapi', 'kecil']",5,positif,porsi
+"['nasi', 'ada', 'rasa', 'gosong', 'pese', 'telur', 'matahari', 'tapi', 'yang', 'di', 'buat', 'telor', 'dadar', 'biasa']",3,negatif,rasa
+"['pecel', 'enak', 'sekali']",5,positif,rasa
+"['porsi', 'mantap', 'sekali', 'pas']",5,positif,porsi
+"['porsi', 'kurang', 'untuk', 'saya', 'yang', 'porsi', 'kuli', 'seperti', 'begini', 'hehehe']",4,positif,porsi
+"['rasa', 'nya', 'terlalu', 'asin']",2,negatif,rasa
+"['selalu', 'bisa', 'andal', 'kalau', 'lagi', 'pengin', 'makan', 'padang', 'enak', 'dan', 'cepat', 'terimakasih', 'banyak', 'sukses', 'selalu']",5,positif,porsi
+"['terimakasih', 'roti', 'amanda', 'brownies', 'paling', 'mantap', 'markotop']",5,positif,rasa
+"['sayur', 'asemnya', 'sedikit', 'sekali', 'jangan', 'pelit', 'pelit', 'lah', 'padahal', 'aku', 'sering', 'beli']",1,negatif,porsi
+"['makan', 'nya', 'enak']",5,positif,rasa
+"['bumbu', 'kurang', 'kakak', 'hehehe']",4,positif,porsi
+"['kurang', 'bumbu', 'tidak', 'ada', 'rasa']",1,negatif,porsi
+"['ayam', 'tidak', 'bersih', 'biasanyaa']",4,positif,kebersihan
+"['enak', 'tapi', 'kyke', 'besar', 'ayam', 'tidak', 'seperti', 'biasa', 'ya']",4,positif,rasa
+"['nasi', 'sedikit', 'sekali', 'sekarang']",3,negatif,porsi
+"['isi', 'banyak', 'sosis', 'sama', 'bakso', 'saja', 'kuah', 'juga', 'hilang', 'tidak', 'ada', 'kata', 'ada', 'krupuknya', 'tapi', 'tidak', 'ada']",3,negatif,porsi
+"['tetap', 'enak', 'walau', 'sedang', 'anosmia']",5,positif,rasa
+"['selalu', 'enak', 'hanya', 'baru', 'ini', 'pesan', 'yang', 'extra', 'nasi', 'rasa', 'nasi', 'nya', 'kurang', 'enak', 'tapi', 'sphagetti', 'chicken', 'double', 'bbq', 'nya', 'enak', 'sekali']",5,positif,rasa
+"['porsi', 'banyak', 'rasa', 'jangan', 'tanya', 'enak', 'sekali', 'karena', 'biasa', 'makan', 'gudeg', 'jogja', 'ala', 'yang', 'pakai', 'daun', 'singkong', 'asa', 'kurang', 'tanpa', 'daun', 'singkong']",5,positif,rasa
+"['makananya', 'enak', 'tapi', 'saosnya', 'kurang']",4,positif,porsi
+"['enak', 'ini', 'bagus', 'lah']",5,positif,rasa
+"['tidak', 'dapat', 'sumpit', 'mie', 'nya', 'kurang', 'banyak']",1,negatif,porsi
+"['enak', 'mantap', 'kuah', 'pas', 'dan', 'segar']",5,positif,rasa
+"['i', 'suka', 'chocolate', 'pas', 'sekali', 'sama', 'jus', 'apa', 'dikasihin', 'ke', 'salad', 'juga', 'enak', 'bingiittss']",5,positif,rasa
+"['suka', 'sekali', 'karena', 'pakai', 'kwetiaw', 'basah', 'porsi', 'juga', 'mantap', 'deh']",5,positif,rasa
+"['biasa', 'geprek', 'nya', 'ada', 'nasi', 'nya', 'biasa', 'sambel', 'nya', 'sempurna', 'ini', 'cabe', 'nya', 'masih', 'bny', 'yang', 'utuh', 'dan', 'sedikit', 'yang', 'terlulek']",3,negatif,porsi
+"['porsi', 'pas', 'potong', 'daging', 'pas', 'kemas', 'cantik']",5,positif,porsi
+"['overall', 'enak', 'apalagi', 'kalau', 'promo', 'terus']",4,positif,rasa
+"['kuah', 'rasa', 'kurang', 'sih', 'hanya', 'manis', 'saja', 'tidak', 'segar', 'terus', 'tekstur', 'juga', 'tidak', 'bosan', 'jadi', 'tidak', 'terlalu', 'suka', 'mbuatnya', 'juga', 'tadi', 'agak', 'lambat']",3,negatif,rasa
+"['paling', 'mantap', 'kalau', 'anget']",5,positif,rasa
+"['mantap', 'tidak', 'pernah', 'kecewa']",5,positif,rasa
+"['enak', 'seperti', 'biasa']",5,positif,rasa
+"['banyak', 'minyak', 'goreng']",3,negatif,porsi
+"['isi', 'banyak', 'tapi', 'tidak', 'imbang', 'packaging', 'yang', 'pas', 'jadi', 'kita', 'terima', 'makan', 'sudah', 'dalam', 'posisi', 'tumpah', 'rasa', 'oke', 'enak']",4,positif,rasa
+"['terima', 'kasih', 'banyak']",5,positif,porsi
+"['rasa', 'melon', 'ada', 'yang', 'tidak', 'ada', 'rasa', 'hehe', 'itu', 'saja', 'kok']",2,negatif,rasa
+"['harga', 'naik', 'rasa', 'kualitas', 'nya', 'turun']",2,negatif,rasa
+"['toping', 'nya', 'sedikit', 'beda', 'sama', 'ph', 'di', 'mall']",2,negatif,porsi
+"['nasi', 'gila', 'kurang', 'tapi', 'nasgor', 'mie', 'magelanganya', 'mantb']",3,negatif,porsi
+"['baru', 'pertama', 'kali', 'coba', 'dan', 'enak', 'itu']",5,positif,rasa
+"['porsi', 'nya', 'kurang']",2,negatif,porsi
+"['harga', 'murah', 'rasa', 'lumayan']",4,positif,rasa
+"['sampai', 'order', 'es', 'kopi', 'kali', 'sampai', 'haus', 'dan', 'enak']",5,positif,rasa
+"['enak', 'polllll', 'huaaa', 'harus', 'nya', 'beli', 'yang', 'besar', 'lagi', 'tadiiii']",5,positif,porsi
+"['kurang', 'teliti', 'tida', 'oke', 'ada', 'sambal']",3,negatif,porsi
+"['sudah', 'makan', 'panties', 'dari', 'tahun', 'deh', 'kalau', 'tidak', 'salah', 'dan', 'selalu', 'enakk', 'tapi', 'sekarang', 'saya', 'rasa', 'agak', 'kecil', 'ya', 'pizzanya', 'tapi', 'tidak', 'apa', 'sih', 'yang', 'penting', 'rasa', 'tetap', 'enak', 'favku', 'yang', 'sayang', 'cheese', 'dan', 'keju', 'mantap', 'sekali', 'mozarellanya', 'limpah', 'apalagi', 'ada', 'diskon', 'gopay', 'dan', 'promo', 'jadi', 'murah', 'sekali']",5,positif,porsi
+"['bumbu', 'kurang', 'resap']",4,positif,porsi
+"['muas', 'mantap', 'pokok']",5,positif,rasa
+"['enak', 'porsi', 'banyak']",5,positif,porsi
+"['sambal', 'kurang']",4,positif,porsi
+"['enak', 'sekali', 'sih', 'regalnya', 'coklat', 'juga', 'enak']",5,positif,rasa
+"['semua', 'enak', 'dan', 'mantap', 'sambelnya', 'hanya', 'pesan', 'tolong', 'minyak', 'sering', 'ganti', 'biar', 'rasa', 'lebih', 'enak', 'lagi', 'dan', 'tidak', 'asa', 'minyak', 'goreng', 'nya', 'kalau', 'sudah', 'ber', 'kali', 'belum', 'ganti', 'terima', 'kasih']",5,positif,rasa
+"['kurang', 'enak', 'terlalu', 'asin']",1,negatif,porsi
+"['untuk', 'kwetiau', 'ada', 'yang', 'kurang', 'asin']",4,positif,rasa
+"['roti', 'empuk', 'cakenya', 'juga', 'lembut', 'enak', 'pokok']",5,positif,rasa
+"['naspad', 'enak', 'di', 'jogja', 'jadi', 'far']",5,positif,rasa
+"['benar', 'rasa', 'sop', 'lumayan', 'hanya', 'proporsi', 'sayur', 'dan', 'ayam', 'soal', 'hanya', 'dapat', 'ayam', 'potong', 'kecil', 'tapi', 'sayur', 'banyak', 'itu', 'kuah', 'tidak', 'tanggung', 'sampai', 'penuh', 'mangkok', 'tapi', 'tidak', 'ada', 'sambal', 'seperti', 'lupa', 'sih', 'mau', 'saran', 'saja', 'dengan', 'harga', 'segitu', 'harus', 'sudah', 'dapat', 'bagi', 'ayam', 'misal', 'paha', 'atau', 'dada', 'potong', 'jadi', 'beberapa', 'bagi', 'lagi', 'digeprek', 'begitu', 'biar', 'lebih', 'resap', 'kaldu', 'terus', 'karena', 'ini', 'made', 'dari', 'order', 'jadi', 'sayur', 'masih', 'keras', 'wortel', 'padahal', 'yang', 'makan', 'orang', 'tua', 'jadi', 'susah', 'begitu', 'besok', 'agak', 'dilamain', 'lagi', 'tidak', 'apa', 'biar', 'lebih', 'empuk', 'kan', 'enak', 'itu', 'overall', 'oke']",4,positif,rasa
+"['rasa', 'yang', 'ini', 'agak', 'beda', 'seperti', 'biasa']",4,positif,rasa
+"['ayam', 'goreng', 'bau']",1,negatif,kebersihan
+"['kuah', 'yang', 'pedas', 'tidak', 'asin']",3,negatif,rasa
+"['baru', 'pertama', 'coba', 'nyata', 'enak', 'masakan', 'terima', 'kasih', 'ya']",5,positif,rasa
+"['masuk', 'saran', 'ajasih', 'enak', 'lagi', 'kalau', 'rempah', 'kering', 'masih', 'terlalu', 'basah', 'turut']",5,positif,rasa
+"['enak', 'banyak', 'cuma', 'saran', 'saucenya', 'jangan', 'langsung', 'di', 'campur']",5,positif,porsi
+"['pesan', 'tidak', 'pedas', 'sama', 'sekali', 'jelas', 'level', 'kas', 'pedas', 'tomat', 'busuk']",1,negatif,kebersihan
+"['pedesnya', 'mantap']",5,positif,rasa
+"['enak', 'bersih', 'manis', 'pas', 'porsi', 'pas']",5,positif,kebersihan
+"['bersih', 'tidak', 'seperti', 'geprek', 'lai', 'lebih', 'murah', 'dari', 'geprek', 'onsu', 'yang', 'harga', 'dan', 'porsi', 'yang', 'tidak', 'ngotak', 'rasa', 'boleh', 'lah']",4,positif,porsi
+"['pas', 'sekali', 'cah', 'kangkung', 'itu', 'makan', 'suka', 'saya', 'rasa', 'dan', 'segar', 'oke', 'harga', 'lumayan', 'lah', 'baik', 'food']",5,positif,rasa
+"['kurang', 'segar', 'dan', 'bau']",2,negatif,kebersihan
+"['cukup', 'enak', 'hanya', 'hampir', 'hambar', 'rasa', 'bumbu', 'over', 'semua', 'dengan', 'harga', 'murah', 'sudah', 'bisa', 'kenyang']",5,positif,rasa
+"['harga', 'banding', 'porsi', 'tambah', 'rasa', 'ini', 'sate', 'baik', 'worth', 'itu', 'sudah', 'jadi', 'juju', 'kalau', 'pas', 'ingin', 'daging', 'kambing', 'lama', 'tahun', 'tahun']",5,positif,porsi
+"['ayam', 'empuk', 'sampai', 'tulang', 'nya', 'nasi', 'porsi', 'jumbo', 'tempe', 'bakar', 'juga', 'besar', 'pokok', 'mantap', 'moga', 'laris', 'terus']",5,positif,rasa
+"['untuk', 'tahu', 'kurang', 'enak', 'tapi', 'kalau', 'untuk', 'yang', 'lain', 'ibu', 'nyussss']",5,positif,rasa
+"['kasih', 'diskon', 'donkkk', 'porsi', 'juga', 'kurang', 'dan', 'tidak', 'ada', 'bonus', 'gratis', 'minum', 'seperti', 'dulu']",1,negatif,porsi
+"['sip', 'enak', 'cuma', 'porsi', 'kurang', 'hehehe']",4,positif,porsi
+"['mantap', 'sekali', 'makan']",5,positif,rasa
+"['maaf', 'aku', 'sering', 'order', 'geprek', 'bensu', 'beberapa', 'kali', 'rasa', 'tidak', 'sesuai', 'level', 'pedas', 'kurang', 'cabe', 'memang', 'enak', 'tapi', 'mohon', 'perhati', 'juga', 'rasa', 'terima', 'kasih']",3,negatif,porsi
+"['order', 'tempe', 'goreng', 'porsi', 'malah', 'dapat', 'kulit', 'goreng', 'porsi', 'tanpa', 'konfirmasi', 'padahal', 'bukan', 'makan', 'kulit', 'jadi', 'percuma', 'bayar', 'kan']",1,negatif,porsi
+"['selalu', 'mantap', 'rasa']",5,positif,rasa
+"['mantap', 'sesuai', 'pesan', 'ukur', 'b', 'dan', 'enak', 'rasa']",5,positif,rasa
+"['bersih', 'mohon', 'perhati']",4,positif,kebersihan
+"['terimakasih', 'makan', 'nya', 'enak', 'dapat', 'bonus', 'lagi']",5,positif,rasa
+"['kurang', 'rasa', 'hanya', 'enak', 'mie', 'soon', 'nya']",2,negatif,porsi
+"['ayam', 'utuh', 'black', 'paper', 'nya', 'tidak', 'enak', 'sama', 'sekali', 'saus', 'terlalu', 'banyak', 'dan', 'terlalu', 'manis', 'rasa', 'ayam', 'sendiri', 'hampir', 'hilang']",1,negatif,rasa
+"['aku', 'pesan', 'sayap', 'tanpa', 'nasi', 'makan', 'baru', 'sampai', 'telah', 'menit', 'aku', 'kira', 'antri', 'karena', 'promo', 'nyata', 'kata', 'drivernya', 'tidak', 'antri', 'driver', 'belum', 'dia', 'juga', 'menit', 'tunggu', 'aku', 'juga', 'tidak', 'dapat', 'kail', 'hanya', 'ada', 'ayam', 'dan', 'saos', 'sachet', 'aku', 'pikir', 'mungkin', 'karena', 'beli', 'tanpa', 'nasi', 'tapi', 'javafoodie', 'belikan', 'teman', 'via', 'daring', 'tanpa', 'nasi', 'kail', 'banyak', 'sekali', 'aku', 'lihat', 'di', 'ig', 'storiesnya']",1,negatif,porsi
+"['porsi', 'dan', 'rasa', 'enak', 'sambel', 'oke', 'sekali', 'tapi', 'sayang', 'pas', 'pesan', 'capjay', 'ada', 'rambut', 'jadi', 'tolong', 'lebih', 'jaga', 'bersih', 'ya']",5,positif,kebersihan
+"['pizza', 'nya', 'kecill', 'dan', 'toping', 'minim', 'rasa', 'biasa', 'saja', 'kurang', 'karakter', 'harus', 'nya', 'lebih', 'dari', 'dar', 'pizza']",2,negatif,rasa
+"['mantap', 'makan']",5,positif,rasa
+"['bisa', 'di', 'bangga', 'enak', 'bersih', 'masih', 'hangat', 'pula']",5,positif,kebersihan
+"['rasa', 'mantap', 'porsi', 'mie', 'kurang', 'bsnyak', 'bersih', 'kemas', 'bagus']",5,positif,kebersihan
+"['kurang', 'empuk', 'dikit', 'tidak', 'seperti', 'yang', 'pertama', 'saya', 'pesan', 'mpuk', 'sekali']",4,positif,porsi
+"['mantap', 'asoy']",5,positif,rasa
+"['biasa', 'enak', 'aku', 'makan', 'mie', 'sampai', 'porsi', 'kali', 'ini', 'mie', 'lembek', 'tauge', 'layu', 'grabyas', 'keras', 'seperti', 'tulang', 'nasi', 'goreng', 'rasa', 'lumayan', 'tawar', 'babi', 'geprek', 'rasa', 'hanya', 'pedas', 'saja', 'padahal', 'hanya', 'level', 'dari', 'semua', 'yang', 'pes', 'tidak', 'ada', 'yang', 'bisa', 'nikmat', 'ganti', 'koki', 'kah']",2,negatif,porsi
+"['gudeg', 'agak', 'pahit', 'dan', 'sangit']",3,negatif,rasa
+"['sudah', 'langgan', 'enak', 'sekali', 'sesuai', 'kasih', 'apa', 'yang', 'di', 'minta']",5,positif,rasa
+"['nasi', 'astaga', 'banyak', 'sekali', 'padahal', 'sudah', 'kasih', 'note', 'untuk', 'tidak', 'banyak', 'banyak', 'tapi', 'ini', 'nasi', 'banyak', 'mungkin', 'biar', 'tidak', 'ngebuang', 'makan', 'kan', 'mubazir', 'perlu', 'dengar', 'minta', 'mes', 'deh']",3,negatif,porsi
+"['pelayananya', 'bagus', 'paling', 'rasany', 'mantap']",5,positif,rasa
+"['coba', 'menu', 'es', 'rujak', 'nyata', 'enak']",5,positif,rasa
+"['turut', 'saya', 'enak', 'sekali', 'siii']",5,positif,rasa
+"['terima', 'kasih', 'masakan', 'enak', 'dan', 'sesuai', 'dengan', 'pesan']",5,positif,rasa
+"['tadi', 'kemas', 'minum', 'nya', 'bocor', 'kurang', 'rapet']",4,positif,porsi
+"['mcflurry', 'nya', 'sangat', 'enak', 'ayam', 'juga', 'enakkkk', 'suka']",5,positif,rasa
+"['yang', 'utama', 'yang', 'datang', 'langsung', 'ke', 'resto', 'padahal', 'kita', 'sudah', 'pesan', 'duluan', 'lewat', 'aplikasi', 'menit', 'belum', 'tapi', 'maasih', 'tunggu', 'antri', 'yang', 'order', 'langsung', 'tanpa', 'aplikasi', 'lama', 'banget', 'sedih', 'sih', 'oh', 'iya', 'di', 'pintu', 'toilet', 'ada', 'kecoa', 'takut', 'terbang', 'ke', 'tempat', 'produksi', 'pizza', 'tolong', 'perhati', 'lagi', 'bersih', 'terimakasih']",3,negatif,kebersihan
+"['bandeng', 'nya', 'agak', 'gosong', 'tapi', 'rasa', 'daging', 'asa', 'sambal', 'nya', 'nampolll', 'mantap']",4,positif,rasa
+"['murah', 'enak', 'saya', 'suka', 'ada', 'leci', 'nyamm', 'apalagi', 'pas', 'makan', 'sama', 'nata', 'deh', 'coconya', 'harga', 'lebih', 'murah', 'banding', 'salad', 'buah', 'lain']",5,positif,rasa
+"['rasa', 'tidak', 'seperti', 'biasa', 'hambar', 'jadi', 'bosan', 'ketika', 'makan']",2,negatif,rasa
+"['enak', 'dan', 'porsi', 'jumbo', 'buar', 'ber', 'hehehe']",5,positif,rasa
+"['enak', 'porsi', 'besar']",5,positif,porsi
+"['sambal', 'nya', 'mantap']",4,positif,rasa
+"['sambal', 'kurang']",3,negatif,porsi
+"['kata', 'pacar', 'makan', 'enak', 'sekali', 'porsi', 'banyakk', 'salad', 'juga', 'enak', 'hanya', 'minum', 'b', 'saja', 'seperti', 'sirup', 'sama', 'susu']",4,positif,rasa
+"['oke', 'sih', 'tapi', 'es', 'teh', 'nya', 'kurang', 'harus', 'es', 'teh', 'nya', 'tapi', 'cuma', 'ada', 'aja', 'lebih', 'oke']",5,positif,porsi
+"['selalu', 'enak']",5,positif,rasa
+"['cocok', 'buat', 'yang', 'cari', 'porsi', 'besar']",4,positif,porsi
+"['mantap', 'porsi', 'pas', 'sambal', 'joss']",5,positif,porsi
+"['mantap', 'sekali', 'ini', 'idola']",5,positif,rasa
+"['agak', 'manis', 'dikit', 'sih', 'tapi', 'tetap', 'enakk', 'banget']",5,positif,rasa
+"['masok', 'ini', 'rasa', 'well', 'semua', 'josss', 'ukur', 'ayam', 'besar']",5,positif,porsi
+"['enak', 'segar', 'kakak', 'yuhu', 'mantap', 'sekali', 'deh', 'asyik', 'segar', 'enak', 'sekali', 'pokok', 'gabisaberkata', 'kata']",5,positif,rasa
+"['selalu', 'enak', 'tidak', 'pernah', 'kecewa']",5,positif,rasa
+"['ayam', 'kurang', 'segar', 'nasi', 'agak', 'keras', 'mungkin', 'karena', 'pesan', 'pagi', 'ya', 'moga', 'lanjut', 'bisa', 'lebih', 'baik', 'makan']",2,negatif,porsi
+"['enak', 'dan', 'murah', 'soal', 'promo', 'hehe']",5,positif,rasa
+"['mantap', 'betul', 'okok', 'pas']",5,positif,rasa
+"['mie', 'iblis', 'tidak', 'ada', 'rasa', 'sama', 'sekali', 'hanya', 'ada', 'pedas', 'saja', 'gakaya', 'biasa', 'moga', 'tidak', 'ke', 'ulang', 'lagi', 'ya']",5,positif,rasa
+"['terima', 'kasih', 'makan', 'sudah', 'lumayan', 'enak']",4,positif,rasa
+"['makan', 'nya', 'enak']",5,positif,rasa
+"['rasa', 'ke', 'asin', 'bebek']",4,positif,rasa
+"['taste', 'nya', 'beda', 'jauh', 'sekarang', 'kurang', 'enak']",3,negatif,porsi
+"['olive', 'fried', 'chicken', 'ini', 'jadi', 'andal', 'aku', 'kalau', 'butuh', 'makan', 'yang', 'kenyang', 'murah', 'dan', 'enak', 'driver', 'pergi', 'food', 'pun', 'turut', 'senang', 'saat', 'terima', 'paket', 'makan', 'olive', 'fried', 'chicken']",5,positif,porsi
+"['enak', 'sekali', 'semua', 'menu', 'minum', 'tidak', 'kecewa', 'pokok', 'terima', 'kasih', 'muniman', 'elak', 'terima', 'kasih', 'driver', 'yang', 'sudah', 'ngantarin']",5,positif,rasa
+"['mantap', 'porsi', 'pas']",5,positif,porsi
+"['seperti', 'ayam', 'pakai', 'yang', 'ayam', 'sisa', 'hari', 'belum', 'hitam', 'ayam', 'dan', 'tidak', 'juicy', 'lemon', 'tea', 'nya', 'sudah', 'mau', 'tuju', 'bau', 'juga']",2,negatif,kebersihan
+"['terlalu', 'tebal', 'tepung', 'jadi', 'daging', 'dikit', 'sekali', 'di', 'kaarage', 'dan', 'agak', 'keras', 'bumbu', 'oke', 'saja', 'mohon', 'tingkat', 'lagi', 'kualitas']",3,negatif,rasa
+"['porsi', 'salad', 'dengan', 'dine', 'di', 'beda', 'jauh', 'sangat', 'sedikit', 'sesame', 'dressing', 'juga', 'asa', 'terlalu', 'buat', 'pabrik']",3,negatif,porsi
+"['murah', 'enak', 'cocok', 'untuk', 'mahasiswa', 'ngenyangin', 'juga']",5,positif,rasa
+"['sugeeeerr', 'enak', 'perdana', 'order', 'di', 'resto', 'ini', 'puas', 'rasa', 'mantaaaaff']",5,positif,rasa
+"['nasi', 'dingin', 'dan', 'kurang', 'puken', 'lauk', 'juga', 'dingin', 'beda', 'dengan', 'saat', 'dine', 'di']",3,negatif,porsi
+"['sama', 'asih', 'biasa', 'saja', 'sih', 'rasa', 'di', 'tingkat', 'kan']",3,negatif,rasa
+"['mantap', 'hanya', 'tidak', 'tahu', 'apa', 'yang', 'bikin', 'pahit', 'sambelnya', 'mungkin']",4,positif,rasa
+"['jujur', 'tidak', 'tahu', 'kenapa', 'dapat', 'rating', 'dan', 'harga', 'buat', 'nasi', 'ayam', 'sambel', 'karena', 'isi', 'seperti', 'tidak', 'niat', 'jual', 'lalap', 'hanya', 'lembar', 'kobis', 'ayam', 'kecil', 'dan', 'hancur', 'sambel', 'bikin', 'asal']",2,negatif,porsi
+"['enak', 'sekali', 'saya', 'pesan', 'carmela', 'atau', 'apa', 'gitu', 'enak', 'sekali']",5,positif,rasa
+"['rasa', 'mantul', 'pollllllll', 'sayang', 'sama', 'chefnya']",5,positif,rasa
+"['rasa', 'enak', 'harga', 'murah', 'karena', 'ada', 'diskon', 'tambah', 'ada', 'cashbacknya', 'juga']",5,positif,rasa
+"['enak', 'sekali', 'makanannyaaaaa']",5,positif,rasa
+"['mantap', 'segar', 'dan', 'senang']",5,positif,rasa
+"['pangsit', 'kurang', 'asin']",3,negatif,porsi
+"['rasa', 'enakk', 'tapi', 'friend', 'freshh', 'nya', 'banyak', 'garam', 'lain', 'kali', 'jangan', 'banyak', 'ya', 'garam']",5,positif,porsi
+"['rasa', 'enak', 'harga', 'murah']",5,positif,rasa
+"['pokok', 'oke', 'sekali', 'sampai', 'saya', 'sering', 'peaan', 'kali', 'kok', 'rasa', 'roti', 'dan', 'bersih', 'serta', 'kemas', 'juga', 'oke', 'untuk', 'kopi', 'sendiri', 'pas', 'dengan', 'harga', 'dan', 'porsi', 'kopi', 'sendiri', 'tidak', 'kurang', 'maupun', 'lebih']",3,negatif,porsi
+"['ini', 'bukan', 'babi', 'kecap', 'tapi', 'babi', 'minyak', 'kuah', 'bukan', 'kuah', 'babi', 'kecap', 'tapi', 'murni', 'minyak', 'tok', 'malah', 'seperti', 'bukan', 'masakan', 'khas', 'bal', 'lama', 'lama', 'makin', 'tidak', 'enak', 'masakan', 'baik', 'dong']",2,negatif,rasa
+"['rasa', 'kopi', 'enak', 'dan', 'kuat', 'dan', 'banyak', 'pilih', 'tanpa', 'gula', 'i', 'suka', 'itu']",5,positif,rasa
+"['murah', 'dapat', 'isi', 'nya', 'macam', 'porsi', 'pas', 'buat', 'aku', 'tidak', 'terlalu', 'banyak', 'kalau', 'rasa', 'aku', 'sih', 'tidak', 'terlalu', 'suka', 'karena', 'dominan', 'manis', 'rasa', 'tapi', 'masih', 'bisa', 'makan', 'lah', 'bakwan', 'nya', 'manis', 'sekali']",4,positif,porsi
+"['selalu', 'jadi', 'menu', 'andal', 'yaitu', 'geprek', 'krisbar', 'dada', 'porsi', 'nya', 'banyak', 'rasa', 'geprek', 'juga', 'enak', 'sekali', 'minta', 'timun', 'banyak', 'juga', 'kasih', 'coba', 'dong', 'tambah', 'paket', 'geprek', 'krisbar', 'nasi', 'indomie', 'pasti', 'lebih', 'mantap']",5,positif,porsi
+"['mie', 'nya', 'enak', 'suka', 'tapi', 'untuk', 'lumpia', 'kok', 'tidak', 'seperti', 'dengan', 'gambar', 'ya', 'tapi', 'tidak', 'apa', 'barokalloh', 'untuk', 'gaco', 'grup']",4,positif,rasa
+"['paling', 'enak', 'dan', 'murah', 'se', 'jogja']",5,positif,rasa
+"['tin a', 'tanpa', 'bumbu', 'sangat', 'tidak', 'enak', 'begitu', 'kok', 'berani', 'buka', 'warung', 'dasar']",1,negatif,rasa
+"['sering', 'pesan', 'di', 'sini', 'makan', 'enak', 'maaf', 'aku', 'turun', 'bintang', 'soal', 'harga', 'yang', 'di', 'pergi', 'food', 'belum', 'di', 'update']",4,positif,rasa
+"['burger', 'enak', 'tapi', 'murah', 'karena', 'sering', 'sekali', 'ada', 'promo', 'sudah', 'begitu', 'tambah', 'promo', 'vouchet', 'diskon', 'dari', 'gofood', 'makin', 'kalap', 'beli', 'nya', 'tidak', 'cukup', 'beli', 'biji', 'pastiin', 'beli', 'yang', 'patty', 'nya', 'premium', 'jangan', 'yang', 'ax', 'ya', 'kalau', 'yang', 'ax', 'sih', 'standar']",5,positif,rasa
+"['kentang', 'pahit']",1,negatif,rasa
+"['enak', 'dan', 'tingkat']",5,positif,rasa
+"['kopi', 'starbucks', 'selalu', 'enak', 'apalagi', 'ada', 'ukur', 'liter', 'jadi', 'bisa', 'untuk', 'stok', 'lama', 'minggu', 'dan', 'ada', 'promonya', 'lagi', 'di', 'gojek']",5,positif,rasa
+"['enak', 'saya', 'suka', 'es', 'nya']",4,positif,rasa
+"['layan', 'cepat', 'dan', 'fast', 'respon', 'porsi', 'sesuai', 'kemas', 'rapi', 'bersih', 'kualitas', 'sama', 'dengan', 'yang', 'dine', 'di']",5,positif,porsi
+"['semua', 'oke', 'tetimaksih', 'banyak', 'ya']",5,positif,porsi
+"['porsi', 'banyak', 'rasa', 'jangan', 'tanya', 'enak', 'sekali', 'karena', 'biasa', 'makan', 'gudeg', 'jogja', 'ala', 'yang', 'pakai', 'daun', 'singkong', 'asa', 'kurang', 'tanpa', 'daun', 'singkong']",5,positif,porsi
+"['rasa', 'dari', 'dulu', 'tidak', 'pernah', 'ubah', 'selalu', 'konsisten', 'enak', 'sambel', 'juga', 'mantap', 'tapi', 'bebek', 'sekarang', 'agak', 'kecil', 'seluruh', 'bagus', 'kemas', 'juga', 'baik']",5,positif,rasa
+"['kemas', 'bagus', 'rasa', 'asin', 'pas', 'enak', 'pedesnya', 'mantap', 'sama', 'cimolnya', 'juga', 'bikin', 'nagihhh']",5,positif,rasa
+"['dingin', 'lebih', 'enak']",4,positif,rasa
+"['kalau', 'bisa', 'tiap', 'pesan', 'gofood', 'boleh', 'di', 'kasih', 'langsung', 'saos', 'nya', 'di', 'burger', 'kalau', 'tidak', 'boleh', 'di', 'kasih', 'lamgsung', 'di', 'resto', 'seperti', 'kurang', 'saja', 'gitu']",4,positif,porsi
+"['agak', 'kecewa', 'soal', 'yang', 'baso', 'pedas', 'itu', 'bukan', 'isi', 'cabe', 'ulek', 'tapi', 'bubuk']",4,positif,rasa
+"['rasa', 'tingkat', 'lagi', 'terlalu', 'hambar', 'perhati', 'bersih', 'bahan', 'yang', 'guna', 'moga', 'laris']",1,negatif,rasa
+"['ayam', 'besar', 'tapi', 'sambelnya', 'asin', 'parah', 'sampai', 'garemnya', 'masih', 'asa', 'kasar']",2,negatif,porsi
+"['jual', 'tidak', 'teliti', 'pesan', 'yang', 'datang', 'tidak', 'sesuai', 'dengan', 'yang', 'aku', 'order', 'pesan', 'yamie', 'manis', 'rica', 'porsi', 'yang', 'datang', 'yamie', 'manis', 'rica', 'dan', 'porsi', 'yamie', 'asin', 'tanpa', 'toping', 'apa', 'bikin', 'kecewa']",1,negatif,rasa
+"['i', 'ordered', 'asin', 'pedas', 'makaroni', 'dan', 'bumbu', 'tidak', 'asa', 'samasekali', 'yang', 'balado', 'juga', 'buat']",3,negatif,rasa
+"['porsi', 'nya', 'dikit', 'lama']",4,positif,porsi
+"['mantap', 'porsi', 'besaaar', 'puaaasss']",5,positif,rasa
+"['bjirlah', 'kata', 'aku', 'teh', 'minta', 'nasi', 'banyak', 'malah', 'kasih', 'bungkus', 'besar', 'makasiii', 'banyaaaa', 'ya', 'xixi']",5,positif,porsi
+"['mantap', 'besar', 'bakpiany']",5,positif,porsi
+"['lebih', 'ekspektasi', 'enak', 'sekali', 'nyata', 'nasgor', 'tuna', 'dan', 'lontong', 'sayur', 'nya', 'packaging', 'juga', 'bagus', 'terima', 'kasih']",5,positif,rasa
+"['enak', 'dan', 'nikmat']",5,positif,rasa
+"['porsi', 'kurang', 'lengkap', 'tidak', 'ada', 'tomat', 'dan', 'timun', 'hehehehhehe']",3,negatif,porsi
+"['masyaallah', 'enak', 'buat', 'sesuai', 'pesan', 'cocok', 'untuk', 'yang', 'makan', 'banyak', 'karena', 'ini', 'banyak', 'sekali', 'wkwk', 'lanjut', 'kalau', 'beli', 'minta', 'porsi', 'rangin', 'kayak', 'wkwk']",5,positif,rasa
+"['rasa', 'hambar', 'kurang', 'asin']",2,negatif,porsi
+"['selalu', 'suka', 'olive', 'tapi', 'kok', 'makin', 'kesini', 'bumbu', 'kurang', 'resap', 'sampai', 'daging']",4,positif,porsi
+"['langgan', 'di', 'sini', 'biasa', 'tidak', 'pernah', 'ada', 'masalah', 'dan', 'selalu', 'sesuai', 'note', 'tapi', 'baru', 'ini', 'es', 'tinggal', 'dan', 'tidak', 'sesuai', 'note', 'minta', 'geprek', 'tapi', 'tidak', 'perek', 'mungkin', 'jual', 'sedang', 'tidak', 'konsentrasi', 'moga', 'ke', 'depan', 'lebih', 'hati', 'lagi', 'biar', 'driver', 'juga', 'tidak', 'bolak', 'balik', 'ngambilin', 'menu', 'yang', 'kurang']",5,positif,porsi
+"['hai', 'kebabpan', 'kamu', 'adalah', 'kebab', 'enak', 'yang', 'pernah', 'saya', 'makan', 'beli', 'kali', 'kali', 'saya', 'tidak', 'bosan', 'sampai', 'jumpa', 'lagi', 'ya', 'kalau', 'saya', 'pulang', 'jogja', 'pasti', 'saya', 'beli', 'lagi']",5,positif,rasa
+"['enak', 'dan', 'jadi', 'favorit']",5,positif,rasa
+"['rasa', 'caramelmnya', 'kurang', 'asa']",4,positif,porsi
+"['porsi', 'pas', 'dan', 'rasa', 'enak', 'utama', 'ayam', 'tepung', 'dan', 'sambal']",5,positif,porsi
+"['aku', 'pikir', 'manis', 'gurih', 'tidak', 'tahu', 'manis', 'kecut', 'kurang', 'ngeblend', 'di', 'lidah']",3,negatif,rasa
+"['selalu', 'enak', 'sini', 'hanya', 'lama', 'saja']",5,positif,rasa
+"['mantap', 'sekali', 'pas', 'pokok', 'sesuai', 'angan', 'dan', 'cita', 'cita']",5,positif,rasa
+"['pesan', 'aku', 'kurang', 'satu', 'rujak', 'bumbu', 'pisah', 'tidak', 'ada', 'padahal', 'sudah', 'bayar']",1,negatif,rasa
+"['mantap', 'makan']",5,positif,rasa
+"['enak', 'sekali', 'makan', 'nya', 'kulit', 'krispi', 'ayam', 'enak', 'banget', 'sambelnya', 'pedas', 'kualitas', 'nomer', 'dus', 'nya', 'mavvah', 'sekali', 'bersih', 'nomer', 'konsumen', 'puas', 'sekali', 'pertahanin', 'ya', 'terimakasihhhhh']",5,positif,rasa
+"['nasgor', 'hongkongnya', 'enak', 'juara', 'deh', 'rasa', 'imbang', 'totally', 'repurchase']",5,positif,rasa
+"['mantap', 'seperti', 'biasa']",5,positif,rasa
+"['ayam', 'yang', 'satu', 'kecil', 'padahal', 'sen', 'dada']",4,positif,porsi
+"['enak', 'dan', 'bersih', 'kemas', 'nya']",5,positif,kebersihan
+"['terima', 'kasih', 'enak']",5,positif,rasa
+"['sudah', 'murah', 'promo', 'lagi', 'mantap']",5,positif,rasa
+"['tidak', 'tahu', 'kenapa', 'heran', 'saja', 'sama', 'seblak', 'teh', 'isum', 'ini', 'rasa', 'beda', 'sama', 'yang', 'lain', 'dan', 'bikin', 'nagih']",5,positif,rasa
+"['jadi', 'ke', 'ingat', 'masakan', 'almarhum', 'nenek', 'enak', 'sekali', 'porsi', 'pas', 'pokok', 'kalau', 'di', 'jogja', 'selalu', 'pesan', 'mantap', 'untuk', 'koki']",5,positif,rasa
+"['biasa', 'beli', 'magelangan', 'mana', 'ada', 'sayur', 'baru', 'kali', 'ini', 'tidak', 'ada', 'sayur', 'mungkin', 'mayoritas', 'suka', 'tidak', 'ada', 'sayur', 'ya', 'buat', 'pisang', 'bau', 'agak', 'aneh', 'tapi', 'masih', 'bisa', 'makan', 'hanya', 'seperti', 'tidak', 'segar', 'begitu', 'soal', 'banyak', 'air', 'tolong', 'tingkat', 'dan', 'perhati', 'lagi', 'ya', 'untuk', 'rasa', 'sudah', 'oke', 'tidak', 'asin', 'tidak', 'hambar', 'jadi', 'aku', 'kasih', 'bintang']",4,positif,kebersihan
+"['porsi', 'dikit', 'yang', 'bawa', 'pulang']",4,positif,porsi
+"['selalu', 'enak', 'titip', 'pesan', 'mohon', 'tidak', 'bawa', 'sumpit', 'dan', 'alat', 'makan', 'ya', 'saat', 'cust', 'tidak', 'minta', 'terima', 'kasih']",5,positif,rasa
+"['rasa', 'tidak', 'ada', 'lawan', 'discount', 'tiada', 'henti', 'jhooozzz']",5,positif,rasa
+"['karena', 'penasaran', 'akhir', 'coba', 'buat', 'beli', 'untuk', 'emas', 'dan', 'bersih', 'sudah', 'oke', 'kok', 'tapi', 'buat', 'sebut', 'ayam', 'geprek', 'seperti', 'tidak', 'ya', 'soal', 'ini', 'jatuh', 'malah', 'ayam', 'colek', 'karena', 'posisi', 'ayam', 'digeprek', 'poles', 'sementara', 'sambelnya', 'pisah', 'saran', 'mungkin', 'ayam', 'gepreknya', 'digrepek', 'sama', 'sambelnya', 'sekali', 'bukan', 'pisah', 'dan', 'bagus', 'lagi', 'kasih', 'level', 'saja', 'soal', 'ini', 'aneh', 'sekali', 'ayam', 'geprek', 'tapi', 'sambelnya', 'pisah', 'lebih', 'buat', 'rasa', 'sudah', 'enak', 'sukses', 'selalu', 'ya']",4,positif,kebersihan
+"['rasa', 'seperti', 'biasa', 'bagus', 'tidak', 'ngecewain']",5,positif,rasa
+"['bubuk', 'tabur', 'nya', 'tidak', 'enak']",2,negatif,rasa
+"['beberapa', 'kali', 'pesan', 'mayonaise', 'nya', 'kurang', 'enak', 'tidak', 'seperti', 'biasa', 'selain', 'itu', 'sih', 'enak', 'mantap']",5,positif,porsi
+"['enak', 'ayam', 'besar', 'hanya', 'yang', 'bakar', 'tadi', 'agak', 'asin', 'daging', 'ayam', 'tapi', 'enak', 'karena', 'bumbu', 'resap', 'dan', 'ayam', 'benar', 'lembut', 'sambelnya', 'mantap', 'serundeng', 'nya', 'juga', 'enak', 'moga', 'yang', 'masa', 'masuk', 'surga', 'firdaus', 'amin']",5,positif,rasa
+"['nasi', 'goreng', 'tidak', 'ada', 'rasa', 'lupa', 'kasih', 'seasoning', 'seperti']",2,negatif,rasa
+"['overall', 'enak', 'hanya', 'sampai', 'di', 'aku', 'sudah', 'tidak', 'panas', 'roti', 'nya', 'jadi', 'kurang', 'mantap', 'saja']",5,positif,rasa
+"['sen', 'ada', 'yang', 'kurang']",2,negatif,porsi
+"['pandan', 'lattenya', 'fore', 'seperti', 'buat', 'sama', 'tuhan', 'deh', 'made', 'dari', 'tuhan', 'asli', 'enak', 'mati']",5,positif,rasa
+"['porsi', 'sedikit', 'hehe']",4,positif,porsi
+"['rapi', 'sekali', 'terima', 'kasih']",5,positif,kebersihan
+"['terimakasih', 'nah', 'begitu', 'dong', 'sambal', 'banyak', 'jadi', 'puas', 'makan', 'terimakasih']",5,positif,porsi
+"['enak', 'pedas', 'gila', 'recoment', 'bagi', 'cinta', 'pedas']",5,positif,rasa
+"['banyak', 'koki', 'ya', 'biar', 'cepat', 'masak', 'karena', 'antriny', 'banyak']",4,positif,porsi
+"['trubus', 'saji', 'makan', 'selera', 'tinggi', 'pas', 'rasa', 'enak', 'sejak', 'saya', 'remaja', 'tahun', 'aku', 'paling', 'suka', 'makan', 'dan', 'jajan', 'dari', 'trubus', 'memang', 'enak', 'kalau', 'dulu', 'masih', 'ada', 'kue', 'basah', 'kecil', 'yang', 'banyak', 'sekali', 'dengan', 'bagai', 'macam', 'bentuk', 'sekarang', 'aku', 'kok', 'tidak', 'lihat', 'ya']",5,positif,rasa
+"['buah', 'kurang', 'segar']",3,negatif,porsi
+"['enak', 'dan', 'porsi', 'banyak', 'mantap']",5,positif,rasa
+"['sambel', 'enak', 'tapi', 'ayam', 'rendang', 'basi', 'dan', 'tidak', 'ada', 'rendang']",1,negatif,kebersihan
+"['sudah', 'enak', 'namun', 'nasi', 'kurang']",5,positif,rasa
+"['terlalu', 'banyak', 'gajih', 'di', 'sate', 'kambing', 'bumbu', 'kecap', 'kurang', 'bumbu', 'mantap', 'tidak', 'di', 'beri', 'sendok', 'jadi', 'untuk', 'datang', 'yang', 'tinggal', 'di', 'hotel', 'harus', 'pinjam', 'dari', 'hotel']",2,negatif,rasa
+"['konsisten', 'asa', 'enak', 'segar', 'kemas', 'rapi', 'jago', 'sekali', 'saji', 'smoked', 'ikan', 'ikan', 'merci', 'chef', 'kamil', 'grup', 'mediterranea', 'semangat', 'sehat', 'selalu']",5,positif,kebersihan
+"['enak', 'salad', 'nya']",5,positif,rasa
+"['enak', 'pas', 'perut']",5,positif,rasa
+"['pas', 'tidak', 'onok', 'jambune', 'porsine', 'sitik', 'turut', 'bungkus', 'plastike', 'trepes', 'tur', 'bumbune', 'masih', 'enak']",4,positif,rasa
+"['untuk', 'rasa', 'makan', 'ya', 'kualitas', 'tetap', 'sama', 'seperti', 'dulu', 'hanya', 'ya', 'tulung', 'sekali', 'tulung', 'lebih', 'teliti', 'lagi', 'harus', 'dapat', 'box', 'malah', 'hanya', 'box']",4,positif,rasa
+"['bersih', 'jaga']",5,positif,kebersihan
+"['porsi', 'pas', 'dan', 'enak']",5,positif,rasa
+"['rasa', 'kurang', 'mantap', 'dikit', 'lagi']",4,positif,porsi
+"['enak', 'sekali', 'ayam', 'goreng', 'saus', 'keju', 'juga', 'enak']",5,positif,rasa
+"['worth', 'itu', 'sekali', 'rasa', 'pas', 'bikin', 'nagih', 'porsi', 'cukup', 'banyak', 'kenyang', 'untuk', 'layan', 'masuk', 'cepat', 'tapi', 'ini', 'gantung', 'antri', 'juga', 'saran', 'aku', 'ketika', 'sudah', 'datang', 'langsung', 'makan', 'saja', 'karena', 'waktu', 'itu', 'aku', 'simpan', 'juga', 'untuk', 'makan', 'sore', 'malam', 'tapi', 'agak', 'asa', 'sedikit', 'kecut', 'di', 'mienya', 'mungkin', 'karena', 'ada', 'sayur', 'pakcoy', 'sebut']",5,positif,porsi
+"['banyak', 'plastik', 'styrofoam', 'over', 'packaging']",3,negatif,porsi
+"['ayam', 'alot', 'sambal', 'basi']",1,negatif,kebersihan
+"['enak', 'sekali', 'nanti', 'lain', 'waktu', 'ta', 'pesn', 'lagi', 'sini']",5,positif,rasa
+"['bagus', 'semua', 'dan', 'enak']",5,positif,rasa
+"['sen', 'semua', 'tambah', 'gula', 'beri', 'less', 'sugar', 'alias', 'sedikit', 'gula', 'lah', 'ya', 'tidak', 'enak', 'mbak', 'mass', 'bagaimana', 'ini', 'mixue', 'kok', 'begini', 'malesss', 'keciwaaa']",3,negatif,rasa
+"['rice', 'box', 'bbq', 'saucenya', 'sangat', 'sedikit', 'tidak', 'seperti', 'biasa', 'jadi', 'tastenya', 'jadi', 'hambar']",3,negatif,porsi
+"['banyak', 'semut', 'yang', 'ikut', 'nyampur', 'di', 'makan', 'tolong', 'tingkat', 'bersih']",2,negatif,kebersihan
+"['pesan', 'aku', 'kurang', 'satu', 'rujak', 'bumbu', 'pisah', 'tidak', 'ada', 'padahal', 'sudah', 'bayar']",1,negatif,porsi
+"['ayam', 'enak', 'nasi', 'bagus', 'kopi', 'dingin', 'sesuai', 'manis', 'juga']",5,positif,rasa
+"['mantap', 'enak', 'dan', 'kenyang']",5,positif,rasa
+"['kurang', 'kecap', 'hehe']",5,positif,porsi
+"['rasa', 'beda', 'dari', 'yang', 'lain', 'seperti', 'ada', 'gosong', 'gososngnya', 'gitu', 'tidak', 'ada', 'yang', 'kalah', 'gosong', 'kembali', 'lagi', 'ke', 'harga', 'yang', 'murah', 'dan', 'tidak', 'akan', 'kembali', 'ke', 'toko']",2,negatif,rasa
+"['porsi', 'sambel', 'nya', 'sedikit', 'sekali', 'aku', 'pesan', 'sambal', 'tambah', 'dengan', 'harga', 'hanya', 'dapat', 'sedikit']",5,positif,porsi
+"['bumbu', 'kurang', 'ngerasuk', 'sayang']",4,positif,porsi
+"['rasa', 'pas', 'dan', 'enak', 'harga', 'juga', 'jangkau']",5,positif,rasa
+"['kalau', 'banyak', 'agak', 'eneg', 'sih', 'tapi', 'kalau', 'masalah', 'rasa', 'sama', 'porsi', 'sip', 'lah']",5,positif,porsi
+"['mantap', 'rasa', 'tahan']",5,positif,rasa
+"['rasa', 'nya', 'kurang', 'muas']",2,negatif,porsi
+"['mie', 'nya', 'enak', 'sudah', 'langgan', 'dari', 'dulu', 'dan', 'rasa', 'tidak', 'ubah']",5,positif,rasa
+"['ayam', 'bumbu', 'laos', 'enak', 'banget']",5,positif,rasa
+"['puyung', 'hai', 'nya', 'dalem', 'masih', 'kurang', 'matang', 'masih', 'adon', 'encer', 'jadi', 'campur', 'sama', 'kuah', 'rasa', 'jadi', 'acak']",2,negatif,rasa
+"['enak', 'banget', 'porsi', 'juga', 'ngenyangin', 'banget', 'terus', 'bumbu', 'melimpahh']",5,positif,porsi
+"['paling', 'suka', 'sama', 'angry', 'wings', 'nya', 'tapi', 'yang', 'lain', 'enak', 'semua', 'apalagi', 'dimsum', 'mentai', 'nya', 'jago', 'sekali']",5,positif,rasa
+"['enak', 'sekali', 'rasa']",5,positif,rasa
+"['percaya', 'sudah', 'sama', 'aku', 'ini', 'rasa', 'manis', 'sekali', 'hahahah', 'tidak', 'sepedes', 'yang', 'belah', 'manis', 'pedas', 'tapi', 'dominan', 'manis', 'nya', 'begitu', 'tapi', 'kalau', 'penasaran', 'sila', 'di', 'coba']",3,negatif,rasa
+"['nasi', 'goreng', 'jangan', 'terlalu', 'asin']",2,negatif,rasa
+"['rasa', 'dan', 'bumbu', 'pas', 'enak', 'dan', 'tidak', 'pelit', 'alias', 'murah']",5,positif,rasa
+"['porsi', 'cocok', 'buat', 'yang', 'lapar', 'bakmi', 'goreng', 'karena', 'banyak', 'sekali']",5,positif,porsi
+"['untuk', 'harga', 'yang', 'dekat', 'ribu', 'porsi', 'aku', 'lebih', 'banyak', 'dapat', 'tepung', 'goreng', 'banding', 'daging', 'ayam']",3,negatif,porsi
+"['ira', 'sama', 'seperti', 'om', 'ta', 'pusat', 'nyata', 'tahu', 'kecil', 'sekali', 'pesan', 'di', 'sini', 'karena', 'dekat', 'rumah', 'eh', 'nyata', 'beda', 'kecewa', 'sih']",4,positif,porsi
+"['mantap', 'sih', 'tapi', 'ayam', 'keras', 'sekali']",4,positif,rasa
+"['i', 'sayang', 'itu', 'nasgor', 'paling', 'endul', 'kali', 'kali', 'pesan', 'terimakasih', 'banyak', 'buat', 'yang', 'masakin']",5,positif,porsi
+"['walaupun', 'promo', 'porsi', 'dan', 'isi', 'mantap', 'buah', 'baik', 'blengerr']",5,positif,porsi
+"['untuk', 'cipta', 'mie', 'gaco', 'terima', 'kasih', 'telah', 'cipta', 'makan', 'se', 'enak', 'ini']",5,positif,rasa
+"['suka', 'mayonaise', 'nya', 'enak', 'sekali', 'aman', 'buat', 'bumil']",5,positif,rasa
+"['sayur', 'nya', 'lebih', 'banyak', 'nasi', 'rang']",4,positif,porsi
+"['makan', 'enak', 'tapi', 'sayang', 'aku', 'pesan', 'paha', 'kenapa', 'di', 'kasih', 'dada', 'ya']",5,positif,rasa
+"['acar', 'parah', 'timun', 'pahit', 'dan', 'sudah', 'agak', 'lembek', 'porsi', 'yaaahhh', 'oke', 'lah', 'tapi', 'kurang', 'sesuai', 'sama', 'nama', 'yang', 'spesial', 'b', 'saja']",3,negatif,rasa
+"['enak', 'mantap', 'sambelnya', 'pedas', 'sekali']",5,positif,rasa
+"['makan', 'enak', 'tapi', 'pesan', 'aku', 'ada', 'yang', 'tidak', 'ada', 'di', 'plastik', 'padahal', 'sudah', 'bayar', 'penuh', 'dan', 'ada', 'di', 'nota', 'pesan', 'no', 'f']",5,positif,rasa
+"['biasa', 'saja', 'sih', 'bukan', 'tipikal', 'makan', 'yang', 'enak', 'sekali', 'tapi', 'juga', 'bukan', 'yang', 'tipikal', 'tidak', 'enak', 'mumgkin', 'begitu', 'turut']",4,positif,rasa
+"['tidak', 'enak', 'sih', 'terlalu', 'amisss', 'maaf']",2,negatif,rasa
+"['enak', 'ayam', 'asa', 'sekali', 'bumbu']",5,positif,rasa
+"['nasgornya', 'enak', 'ayam', 'panca', 'rasa', 'enak', 'tapi', 'sayang', 'sekali', 'baikut', 'sayur', 'asin', 'seperti', 'bau', 'daging', 'tidak', 'segar', 'ya', 'jadi', 'tidak', 'makan', 'sama', 'sekali']",3,negatif,rasa
+"['mantap', 'nagih', 'sekali']",5,positif,rasa
+"['hanya', 'bumbu', 'kacang', 'nya', 'kurang', 'banyak']",5,positif,porsi
+"['enak', 'segar', 'mantap', 'bikin', 'tagih']",4,positif,rasa
+"['jeruk', 'tidak', 'di', 'kasih', 'dan', 'minta', 'tolong', 'pedas', 'eh', 'sambelnya', 'sedikit', 'sekali']",3,negatif,rasa
+"['asin', 'dan', 'gosong']",2,negatif,rasa
+"['ayam', 'besar', 'sekali', 'ayam', 'bisa', 'buat', 'porsi', 'nasi', 'hanya', 'saja', 'turut', 'lidah', 'aku', 'masakan', 'terlalu', 'manis', 'tapi', 'enak', 'kok']",5,positif,porsi
+"['lain', 'kali', 'kalau', 'ada', 'catat', 'di', 'order', 'baca', 'yang', 'benar', 'ya', 'kakak', 'order', 'apa', 'juga', 'baca', 'dengan', 'teliti', 'sen', 'yang', 'porsi', 'itu', 'kobisnya', 'bukan', 'malah', 'terong', 'yang', 'order', 'salah', 'semua', 'hhahaha']",3,negatif,porsi
+"['asin', 'bro', 'sayur']",4,positif,rasa
+"['hari', 'turut', 'turut', 'pesan', 'karena', 'enak', 'banget', 'ingin', 'nangesssss', 'sangking', 'enak', 'tolong', 'buka', 'cabang', 'yang', 'dekat', 'dari', 'kos', 'biar', 'ongkirnya', 'tidak', 'mahal', 'huhuhu']",5,positif,rasa
+"['biasa', 'aku', 'pesan', 'level', 'pedesss', 'sekali', 'tapi', 'kok', 'ini', 'level', 'nya', 'enggak', 'pedas', 'ya']",4,positif,rasa
+"['makan', 'enak', 'hanya', 'saja', 'nasi', 'goreng', 'selalu', 'banyak', 'minyak', 'jadi', 'untuk', 'taste', 'nya', 'hanya', 'rasa', 'minyak', 'saja']",4,positif,porsi
+"['seperti', 'layan', 'nya', 'kurang', 'ramah', 'dan', 'tidak', 'konsisten', 'aku', 'sampai', 'di', 'omelin', 'driver', 'aku', 'karena', 'layan', 'yang', 'kurang', 'baik', 'di', 'sini']",1,negatif,porsi
+"['burgernya', 'tidak', 'ada', 'rasa', 'mending', 'bigmac', 'pakai', 'sekali']",3,negatif,rasa
+"['enak', 'rasa', 'sayang', 'lele', 'kok', 'kecil', 'ya']",5,positif,porsi
+"['enak', 'sih', 'tapi', 'sayang', 'porsi', 'nasi', 'dikit', 'sekali', 'padahal', 'kalau', 'di', 'tempat', 'langsung', 'dapat', 'nasi', 'bakul', 'ribu', 'loh', 'nasi', 'masa', 'dapat', 'dikit']",4,positif,porsi
+"['enak', 'mantap', 'porsi', 'cukup', 'kenyang']",5,positif,porsi
+"['makan', 'yang', 'enak', 'dan', 'murah', 'serta', 'banyak', 'promo', 'dari', 'gojek', 'terima', 'kasih', 'gojek', 'gofooders', 'indonesia', 'selalu', 'senang', 'dan', 'semangat']",5,positif,rasa
+"['sedikit', 'kecewa', 'karena', 'tidak', 'sedia', 'sendok']",5,positif,porsi
+"['nasi', 'tumben', 'kecil']",4,positif,porsi
+"['porsi', 'yang', 'sekarang', 'tidak', 'sesuai', 'dengan', 'harga', 'aku', 'dapat', 'pesan', 'special', 'namun', 'isi', 'tidak', 'seperti', 'dulu', 'sekarang', 'salad', 'sayur', 'hanya', 'sendok', 'tidak', 'sampai', 'daging', 'sedikit', 'tempura', 'rasa', 'kurang', 'enak', 'dan', 'sedikit', 'gosong', 'apakah', 'memang', 'rang', 'apa', 'salah', 'pesan']",2,negatif,porsi
+"['bikin', 'porsi', 'jumbo', 'dong']",5,positif,porsi
+"['kurang', 'sedap', 'makan']",3,negatif,rasa
+"['mantap', 'tahan']",5,positif,rasa
+"['mantap', 'tapi', 'kecil']",5,positif,rasa
+"['enak', 'sekali', 'mantap', 'selalu', 'muas']",5,positif,rasa
+"['aku', 'order', 'paket', 'ayam', 'tahu', 'tempe', 'geprek', 'baik', 'ayam', 'dan', 'nasi', 'dingin', 'rasa', 'kurang', 'dan', 'ayam', 'alot', 'moga', 'lanjut', 'waktu', 'lebih', 'baik']",3,negatif,rasa
+"['baru', 'pertama', 'coba', 'langsung', 'suka', 'sekali', 'sama', 'rasa', 'juaraaa']",5,positif,rasa
+"['segar', 'sekali', 'mantap', 'sekali']",5,positif,rasa
+"['porsi', 'pas', 'mantap', 'pokok', 'akan', 'beli', 'lagi', 'nih', 'terimakasih', 'kakak']",5,positif,porsi
+"['mantap', 'tapi', 'aci', 'nya', 'kurang', 'banyak', 'kakak', 'jadi', 'tidak', 'rasa']",5,positif,porsi
+"['es', 'kurang', 'manis', 'enak', 'kok']",5,positif,rasa
+"['nasi', 'keras', 'seperti', 'kurang', 'air', 'saat', 'masak']",2,negatif,porsi
+"['masok', 'ini', 'rasa', 'well', 'semua', 'josss', 'ukur', 'ayam', 'besar']",5,positif,rasa
+"['enak', 'karena', 'lagi', 'lapar', 'pedas', 'mantul', 'kecap', 'asin', 'nya', 'banyak']",4,positif,rasa
+"['ayam', 'enak', 'tapi', 'jeruk', 'hangat', 'agak', 'bau', 'jeruk', 'basi', 'mohon', 'perhati', 'lagi', 'kualitas', 'minum']",4,positif,rasa
+"['porsiny', 'kecil', 'nyata']",4,positif,porsi
+"['rasa', 'teh', 'kurang']",3,negatif,rasa
+"['mantap', 'rasa']",5,positif,rasa
+"['ini', 'adalah', 'ayam', 'bakar', 'enak', 'yang', 'pernah', 'ku', 'makan', 'terimakasih', 'sudah', 'masa', 'seperti', 'ini', 'moga', 'harga', 'terus', 'stabil', 'ya']",5,positif,rasa
+"['tiada', 'keju', 'yang', 'lebih', 'nikmat', 'daripada', 'keju', 'richeese']",5,positif,rasa
+"['isiannnya', 'banyak', 'sih', 'cepat', 'pula', 'hanya', 'untuk', 'taste', 'kurang', 'sekali', 'hanya', 'asa', 'kuah', 'bubuk', 'cabe', 'saja', 'kencurny', 'tidak', 'asa']",2,negatif,porsi
+"['rasa', 'tidak', 'enak', 'biasa']",2,negatif,rasa
+"['akhir', 'nemu', 'lotek', 'yang', 'enak', 'di', 'daerah', 'atas', 'akan', 'jadi', 'langgan', 'insyaa', 'allah', 'padu', 'yang', 'mantap', 'antara', 'saos', 'kacang', 'yang', 'creamy', 'dengan', 'manis', 'yang', 'pas', 'porsi', 'juga', 'banyak', 'sekali', 'dan', 'harga', 'murah', 'sekali', 'recommended', 'sekali', 'pokok', 'ini', 'lotek']",5,positif,porsi
+"['enak', 'seperti', 'biasanyaa']",5,positif,rasa
+"['sedap', 'sekali', 'pedas', 'mantap']",5,positif,rasa
+"['aku', 'pesan', 'yang', 'large', 'kenapa', 'yang', 'datang', 'kecil', 'gelas', 'nya']",1,negatif,porsi
+"['coba', 'coba', 'tapi', 'enak']",5,positif,rasa
+"['pesan', 'lele', 'kurang']",1,negatif,porsi
+"['bumbu', 'kurang', 'gurih']",3,negatif,rasa
+"['bumbu', 'sate', 'encer', 'minta', 'ampun', 'terlalu', 'banyak', 'air', 'sehingga', 'rasa', 'kacang', 'tidak', 'begitu', 'asa', 'pesan', 'tusuk', 'tapi', 'jumlah', 'bumbu', 'sama', 'seperti', 'tusuk', 'pesan', 'dengan', 'nasi', 'tapi', 'tidak', 'kasih', 'sendok', 'plastik', 'tidak', 'mau', 'pesan', 'lagi']",2,negatif,rasa
+"['enak', 'bagai', 'always', 'coba', 'porsi', 'tambah', 'dikit']",5,positif,rasa
+"['terimakasih', 'enak', 'kok']",5,positif,rasa
+"['lebih', 'banyak', 'lagi', 'daging']",4,positif,porsi
+"['lele', 'terbang', 'nya', 'daging', 'dekat', 'kepala', 'rasa', 'kurang', 'kriuk']",4,positif,rasa
+"['saus', 'rabokkinya', 'enak', 'meski', 'mienya', 'seperti', 'pakai', 'indomie']",5,positif,rasa
+"['saus', 'terlalu', 'kecut', 'but', 'itu', 'si', 'oke', 'lah', 'enak', 'kokk']",4,positif,rasa
+"['porsi', 'promo', 'tidak', 'di', 'kasih', 'tulis', 'dan', 'jelas']",4,positif,porsi
+"['gochujang', 'spicy', 'tidak', 'bisa', 'makan', 'terlalu', 'pedas', 'karena', 'pakai', 'cabe', 'rawit', 'mentah', 'dengan', 'jumlah', 'terlalu', 'banyak', 'yang', 'buat', 'seperti', 'ada', 'dendam', 'sama', 'beli', 'pada', 'menu', 'juga', 'tidak', 'ada', 'gambar', 'akan', 'sepedas', 'ini']",2,negatif,porsi
+"['kurang', 'krispy', 'gorenganya']",3,negatif,porsi
+"['ayam', 'kurang', 'gurih', 'dikit']",4,positif,porsi
+"['mantap', 'lah', 'pokok', 'tapi', 'bumbu', 'sedikit', 'asin']",5,positif,rasa
+"['teh', 'kurang', 'manis']",4,positif,porsi
+"['sayur', 'hanya', 'sedikit']",3,negatif,porsi
+"['udang', 'rambutan', 'tidak', 'ada', 'rasa', 'hanya', 'rasa', 'tepung', 'mienya', 'juga', 'kurang', 'gurih', 'malah', 'lebih', 'enak', 'yang', 'cabang', 'cirebon', 'bal', 'bagaimana', 'ke']",2,negatif,rasa
+"['ada', 'ulat', 'mohon', 'jaga', 'bersih']",3,negatif,kebersihan
+"['wehh', 'cah', 'kangkung', 'nya', 'asin', 'sekali', 'asin', 'sudah', 'kebelet', 'nikah', 'apa', 'bagaimana', 'chefnya', 'ini', 'terus', 'sambal', 'hati', 'kering', 'sekali', 'sumpah', 'terus', 'ikan', 'nila', 'lumayan', 'lah', 'ya', 'terus', 'cumi', 'tepung', 'mantul', 'lebih', 'tingkat', 'lagi', 'proses', 'buat', 'makan']",2,negatif,rasa
+"['enak', 'banget']",5,positif,rasa
+"['bumbu', 'ayam', 'tidak', 'rasa', 'sampai', 'daging', 'sambal', 'gepreknya', 'pedas', 'aja', 'h', 'ada', 'bumbu', 'agak', 'turun', 'atau', 'beda', 'rasa', 'karena', 'beda', 'lokasi']",3,negatif,rasa
+"['porsi', 'terlalu', 'sedikit', 'sih', 'turut']",1,negatif,porsi
+"['enak', 'ini', 'makan', 'buat', 'suami', 'saya', 'yang', 'lagi', 'sakit', 'moga', 'bisa', 'makan', 'banyak', 'dan', 'lekas', 'sehat']",5,positif,rasa
+"['kurang', 'pedas', 'sambal', 'terlalu', 'manis']",4,positif,rasa
+"['memang', 'tidak', 'salah', 'langgan', 'sini', 'pakai', 'diskon', 'gopay', 'tapi', 'tidak', 'rangin', 'malah', 'kasih', 'potong', 'gulai', 'otak', 'nya', 'yang', 'besar', 'sekali', 'buah', 'baik', 'moga', 'laris', 'terus', 'ya', 'amin']",5,positif,porsi
+"['nasi', 'nya', 'basi', 'besok', 'lebih', 'teliti', 'bos']",1,negatif,kebersihan
+"['maaf', 'belum', 'tapi', 'rasa', 'mirip', 'goreng', 'ciken', 'kakak', 'pinggir', 'jalan', 'kalau', 'tidak', 'pakai', 'saus', 'saus', 'juga', 'tidak', 'spesial', 'cenderung', 'gaenak']",3,negatif,rasa
+"['pelit', 'kasih', 'sambal', 'hanya', 'dapat', 'scahet', 'kecil', 'takut', 'bangkrut', 'kali']",1,negatif,porsi
+"['mungkin', 'kalau', 'tidak', 'terlalu', 'banyak', 'tepung', 'akan', 'lebih', 'enak', 'hehe', 'fuyunghainya', 'jadi', 'lebih', 'mirip', 'bakwan']",3,negatif,rasa
+"['cuminya', 'cukup', 'buat', 'lauk', 'nasi', 'yang', 'banyak', 'rasa', 'enakkk', 'sekali']",5,positif,rasa
+"['tidak', 'ada', 'sendok', 'ayam', 'bakar', 'beda', 'sekali', 'sama', 'dulu', 'dari', 'segi', 'rasa', 'sudah', 'beda', 'terus', 'ayam', 'bakar', 'model', 'yang', 'basah', 'gitu', 'tidak', 'kering', 'kurang', 'suka']",2,negatif,rasa
+"['basrengnya', 'sudah', 'tidak', 'segar', 'sudah', 'bau', 'amis', 'sekali']",2,negatif,kebersihan
+"['porsi', 'banyak', 'rasa', 'mantap', 'sayang', 'deh', 'sama', 'chefnya', 'harga', 'pas']",5,positif,rasa
+"['goreng', 'ayam', 'nya', 'kurang', 'mateng']",2,negatif,porsi
+"['miunumnya', 'kurang', 'manis']",4,positif,rasa
+"['dulu', 'enak', 'porsi', 'nya', 'pas', 'sekarang', 'jauh', 'beda', 'segala', 'nya', 'mungkin', 'chef', 'nya', 'ganti', 'ya']",1,negatif,porsi
+"['kopi', 'nya', 'enak', 'sekali']",5,positif,rasa
+"['pas', 'sekali', 'renyahh', 'dan', 'gurih']",4,positif,rasa
+"['pas', 'mantap', 'sudah']",5,positif,rasa
+"['seblaknya', 'enak', 'tapi', 'packagingny', 'terlalu', 'kecil', 'jadi', 'kalau', 'ambil', 'jauh', 'kuah', 'tidak', 'ada']",3,negatif,porsi
+"['ayam', 'juicy', 'rasa', 'juga', 'enak']",5,positif,rasa
+"['nasi', 'porsi', 'standar', 'sedia', 'habis', 'tapi', 'porsi', 'jumbo', 'masih', 'mau', 'tidak', 'mau', 'harus', 'pilih', 'jumbo', 'hasil', 'mubadzir', 'karena', 'tidak', 'habis', 'kenapa', 'porsi', 'standar', 'habis', 'malah', 'jumbo', 'masih', 'kan', 'tinggal', 'rangin', 'saja', 'kakak', 'hmm', 'kasih', 'pilih', 'cabe', 'berapa', 'saya', 'kira', 'sambelnya', 'buat', 'dada', 'ulek', 'dulu', 'tapi', 'malah', 'kasih', 'sambel', 'basi', 'hasil', 'harus', 'dipisahin', 'dulu', 'sambel', 'sama', 'ayam', 'ayam', 'bagi', 'dalem', 'masih', 'merah', 'bikin', 'kerja', 'dua', 'kali', 'harus', 'goreng', 'lagi', 'dulu', 'sudah', 'tunggu', 'lama', 'mana', 'laper', 'sekali', 'malah', 'dikecewain', 'sama', 'makan', 'kalau', 'sambelnya', 'sudah', 'tidak', 'pantas', 'kan', 'resto', 'bisa', 'ngechat', 'customer', 'ke', 'kakak', 'atau', 'tidak', 'aku', 'sudah', 'coba', 'beli', 'dari', 'tempat', 'lain', 'belum', 'tapi', 'sudah', 'maleman', 'jadi', 'mungkin', 'sudah', 'pada', 'ttup', 'dibatalin', 'otomatis', 'sama', 'gojek', 'jadi', 'mau', 'tidak', 'mau', 'beli', 'di', 'sini', 'dengan', 'harap', 'bisa', 'muas', 'tapi', 'tidak', 'jauh', 'di', 'luar', 'ekspektasi', 'kalau', 'rasa', 'bisa', 'foto', 'video', 'sudah', 'saya', 'kasih', 'lihat']",2,negatif,kebersihan
+"['saus', 'burgernya', 'enak', 'hanya', 'porsi', 'french', 'fries', 'nya', 'kurang', 'banyak']",5,positif,porsi
+"['hambar', 'telur']",3,negatif,rasa
+"['soal', 'rasa', 'hara', 'kok', 'malah', 'kalah', 'sama', 'rocket', 'sekarang', 'porsi', 'ayam', 'juga']",3,negatif,rasa
+"['overall', 'enak', 'spesial', 'suka', 'sekali', 'sama', 'pisang', 'ijonyaa']",5,positif,rasa
+"['enaaak', 'kalau', 'panas', 'pas', 'sekali', 'buat', 'ngangetin', 'badan', 'boleh', 'kasih', 'masuk', 'dikit', 'buat', 'capjaynya', 'sdikit', 'hambar']",5,positif,rasa
+"['tidak', 'ada', 'yang', 'bisa', 'kalah', 'rasa', 'sambal', 'kacang', 'ususnyaaaaaa']",5,positif,rasa
+"['promo', 'tapi', 'porsi', 'dikit', 'sekali', 'tidak', 'seperti', 'biasa', 'jus', 'nya', 'juga', 'hanya', 'asa', 'air', 'aja', 'ini', 'mah', 'sangat', 'bad']",1,negatif,porsi
+"['enak', 'sekali', 'moga', 'packagingnya', 'lebih', 'oke', 'lagi', 'ya']",5,positif,rasa
+"['maaf', 'tetapi', 'kok', 'seperti', 'rasa', 'cap', 'cay', 'dan', 'nasi', 'goreng', 'jadi', 'beda', 'ya', 'akhir', 'akhir', 'ini', 'tetapi', 'terima', 'kasih']",3,negatif,rasa
+"['enak', 'kok', 'ya', 'mungkin', 'kalau', 'pas', 'lagi', 'ramai', 'sekali', 'kadang', 'tukar', 'dengan', 'pesan', 'yang', 'lain', 'yang', 'hampir', 'sama', 'pesan']",5,positif,rasa
+"['kuah', 'pangsit', 'perlu', 'ditambahin', 'terlalu', 'sedikit']",5,positif,porsi
+"['rasa', 'enak', 'ayam', 'masih', 'panas']",5,positif,rasa
+"['rasa', 'enak', 'tapi', 'porsi', 'dikit', 'sekali', 'buat', 'cewek', 'saja', 'kurang', 'apalagi', 'cowok']",3,negatif,rasa
+"['enak', 'tapi', 'dingin', 'lebih', 'enak']",5,positif,rasa
+"['sambelnya', 'kurang', 'banyak']",4,positif,porsi
+"['pertama', 'kali', 'coba', 'makan', 'no', 'masing', 'tapi', 'tetap', 'nikmat', 'sambelnya', 'enak', 'tapi', 'kurang', 'banyak', 'sama', 'daun', 'singkong', 'terlalu', 'keras', 'kalau', 'buat', 'saya', 'dan', 'timun', 'nya', 'bagi', 'yang', 'kurang', 'segar', 'jadi', 'aja', 'asem', 'dikit']",5,positif,porsi
+"['enaak', 'hanya', 'tempe', 'dan', 'tahu', 'kurang', 'ada', 'rasa']",5,positif,rasa
+"['murah', 'enak', 'bersih', 'mantap']",5,positif,kebersihan
+"['nasi', 'goreng', 'bau', 'gosong', 'minta', 'pedas', 'tapi', 'tidak', 'pedas']",3,negatif,kebersihan
+"['aku', 'pesan', 'pesan', 'mie', 'nyinyir', 'topping', 'ayam', 'mir', 'nyinyir', 'topping', 'jamur', 'dan', 'topping', 'jamur', 'namun', 'yang', 'datang', 'hanya', 'mie', 'nyinyir', 'topping', 'ayam', 'mie', 'nyinyir', 'polos', 'dan', 'topping', 'jamur', 'yang', 'bungkus', 'plastik', 'rasa', 'dan', 'tampil', 'mie', 'nyinyir', 'pun', 'tidak', 'seperti', 'biasa', 'ini', 'seperti', 'mie', 'kecap', 'sangat', 'coklat', 'rasa', 'pun', 'asa', 'kecap', 'saja', 'aku', 'bayar', 'penuh', 'pakai', 'uang', 'kalau', 'jual', 'tolong', 'teliti', 'jangan', 'enak', 'jidat', 'sendiri', 'sangat', 'rugi', 'orang', 'lain', 'jual', 'mie', 'nyinyir', 'yang', 'sangat', 'tidak', 'pantas', 'selamat', 'nikmat', 'ubah', 'konsumen', 'resto', 'depan']",1,negatif,rasa
+"['penyet', 'kurang', 'banyak', 'dan', 'rata', 'ada', 'bagi', 'yang', 'hambar']",4,positif,porsi
+"['pedas', 'enak', 'mantap', 'mie', 'nya', 'tambah', 'banyak', 'mantap']",5,positif,rasa
+"['kurang', 'manis', 'dikit', 'lebih', 'oke']",4,positif,porsi
+"['enaak', 'tahan', 'konsistensi', 'rasa']",5,positif,rasa
+"['ayam', 'spicy', 'nya', 'wangi', 'segar', 'dan', 'enak', 'kasih', 'sesuai', 'minta', 'terimakasih', 'kamu', 'mcd', 'yogyakarta']",5,positif,rasa
+"['nasi', 'goreng', 'nya', 'eankkkkk', 'tapi', 'sayang', 'banyak', 'minyak', 'tapi', 'ini', 'enak']",5,positif,rasa
