@@ -230,7 +230,7 @@ def show_overview(df_gizi, df_bmi, df_feedback):
     
     col1, col2 = st.columns(2)
     with col1:
-        st.markdown("🍽️ Dinner Recommendation")
+        st.markdown("### 🍽️ Dinner Recommendation")
         with st.container(border=True):
             st.markdown("#### 📌 Latar Belakang")
             st.write("""
