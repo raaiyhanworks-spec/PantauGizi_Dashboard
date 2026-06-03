@@ -323,9 +323,9 @@ def show_dinner_recommendation(df_gizi: pd.DataFrame):
 
     tab1, tab2, tab3, tab4, tab5 = st.tabs([
         "📊 Distribusi Kategori",
-        "🥩 Q1 Makronutrien per Kategori",
+        "🥩 Makronutrien per Kategori",
         "⚡ Energi per Kategori",
-        "🔥 Q1 Korelasi Gizi",
+        "🔥 Korelasi Gizi",
         "🏆 Top Menu",
     ])
 
@@ -544,7 +544,7 @@ def show_dinner_recommendation(df_gizi: pd.DataFrame):
         st.dataframe(df[cols], use_container_width=True)
 
 
-# PAGE 3  Anthropometric Analysis  (Q2)
+# Anthropometric Analysis Page
 def show_anthropometric(df_bmi: pd.DataFrame):
     if df_bmi.empty:
         st.error("File `train_bmi.csv` tidak ditemukan atau kosong.")
@@ -585,9 +585,9 @@ def show_anthropometric(df_bmi: pd.DataFrame):
         "📈 Status Gizi",
         "🦴 Stunting",
         "⚖️ Distribusi Usia & Gender",
-        "🔥 Q2  BMR per Jenjang",
-        "📊 Q2  BMR per Status Gizi",
-        "🥗 Q2  Makronutrien Harian",
+        "🔥 BMR per Jenjang",
+        "📊 BMR per Status Gizi",
+        "🥗 Makronutrien Harian",
     ])
 
     with tab1:
