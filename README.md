@@ -1,6 +1,6 @@
 # PantauGizi Dashboard
 
-PantauGizi Dashboard merupakan aplikasi visualisasi data berbasis Streamlit yang dikembangkan untuk mendukung program **Makan Bergizi Gratis (MBG)** melalui analisis nutrisi menu, profil antropometri siswa, serta sentimen umpan balik orang tua.
+PantauGizi Dashboard merupakan platform visualisasi data berbasis Streamlit yang dikembangkan untuk mendukung **Program Makan Bergizi Gratis (MBG)** melalui analisis kandungan gizi menu, profil antropometri siswa, serta sentimen umpan balik orang tua. Dashboard ini menjadi bagian dari pengembangan **Sistem Cerdas untuk Analisis Feedback Menu dan Rekomendasi Gizi Anak pada Program Makan Bergizi Gratis (MBG)** yang bertujuan menghasilkan insight berbasis data guna mendukung evaluasi menu dan pengambilan keputusan yang lebih tepat.
 
 Dashboard ini mengintegrasikan tiga sumber data utama:
 
@@ -42,7 +42,7 @@ pip install -r requirements.txt
 streamlit run main.py
 ```
 
-Setelah berhasil dijalankan, aplikasi dapat diakses melalui:
+Setelah berhasil dijalankan, streamlit dapat diakses melalui:
 
 ```text
 https://dashboardpantaugizi.streamlit.app
@@ -50,7 +50,7 @@ https://dashboardpantaugizi.streamlit.app
 
 ---
 
-## Struktur Proyek
+## Struktur Proyek Dashboard Streamlit
 
 ```text
 pantaugizi-dashboard/
