@@ -398,26 +398,25 @@ def show_dinner_recommendation(df_gizi: pd.DataFrame):
         categories_radar = ["Protein","Lemak","Karbohidrat"]
         for idx, cat in enumerate(FOOD_ORDER):
             row = macro_avg[macro_avg["isi_piringku"] == cat]
-            if row.empty:
-                continue
-            vals = [float(row["protein"]), float(row["lemak"]), float(row["karbohidrat"])]
+            
+            if len(row) == 0: continue
+            protein = row["protein"].values[0]
+            lemak = row["lemak"].values[0]
+            karbohidrat = row["karbohidrat"].values[0]
+            
+            vals = [protein, lemak, karbohidrat]
             vals += vals[:1]
-            fig_radar.add_trace(go.Scatterpolar(
-                r=vals,
-                theta=categories_radar + categories_radar[:1],
-                fill="toself",
-                name=cat,
-                line=dict(color=RADAR_COLORS[idx % len(RADAR_COLORS)]),
-                fillcolor=RADAR_COLORS[idx % len(RADAR_COLORS)].replace("#","rgba(").rstrip(")") if False else RADAR_COLORS[idx % len(RADAR_COLORS)],
-            ))
-        fig_radar.update_layout(
-            polar=dict(radialaxis=dict(visible=True)),
-            showlegend=True, height=420,
-            paper_bgcolor="rgba(0,0,0,0)",
-        )
+            fig_radar.add_trace(
+                go.Scatterpolar(
+                    r=vals,
+                    theta=categories_radar + categories_radar[:1],
+                    fill="toself",
+                    name=cat,
+                    line=dict(color=RADAR_COLORS[idx % len(RADAR_COLORS)])
+                )
+            )
         st.plotly_chart(fig_radar, use_container_width=True)
-
-        insight_box("""
+    insight_box("""
         <b>Insight Q1  Makronutrien:</b><br>
         • <b>Lauk-Pauk</b> memiliki skor protein dan lemak tertinggi → sumber utama
           pembangun dan pelengkap energi padat.<br>
