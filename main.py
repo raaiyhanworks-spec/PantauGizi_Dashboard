@@ -557,7 +557,7 @@ def show_anthropometric(df_bmi: pd.DataFrame):
     df = df_bmi.copy()
 
     with st.sidebar:
-        st.markdown("### 🔎 Filter Anthropometric")
+        st.markdown("### Filter Anthropometric")
         sel_age = st.multiselect("Jenjang Sekolah", options=AGE_ORDER, default=AGE_ORDER)
         sel_status = st.multiselect("Status Gizi", options=STATUS_ORDER, default=STATUS_ORDER)
 
