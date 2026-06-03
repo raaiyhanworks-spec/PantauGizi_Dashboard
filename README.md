@@ -45,7 +45,7 @@ streamlit run main.py
 Setelah berhasil dijalankan, aplikasi dapat diakses melalui:
 
 ```text
-
+https://dashboardpantaugizi.streamlit.app
 ```
 
 ---
